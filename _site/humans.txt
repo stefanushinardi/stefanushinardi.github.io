@@ -1,0 +1,14 @@
+/* TEAM */
+Creator: Stefanus Hinardi
+Contact: cole@coletownsend.com
+Twitter: stefanushinardi
+Location: Urbana, IL
+                           
+/* THANKS */                           
+Creator of Balzac theme: Cole Townsend
+Twitter: @twnsndco
+
+/* SITE */                         
+Last update: 2014-07-28
+Standards: HTML, SCSS, Jekyll                        
+Software: git
