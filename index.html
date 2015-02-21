@@ -1,186 +1,133 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Just a Little Thoughts">
-
-    <title>Stefanus Hinardi</title>
-
-    <link rel="canonical" href="http://stefanushinardi.com/">
-
-    <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/clean-blog.css">
-
-    <!-- Pygments Github CSS -->
-    <link rel="stylesheet" href="/css/syntax.css">
-
-    <!-- Custom Fonts -->
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-</head>
+     <head>
+        <meta charset="UTF-8">
+        <title>Project Ideo</title>
+        <link rel="shortcut icon"  href="/favicon.ico">
+        <link rel="stylesheet" href="css/styles.css">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+     </head>
+     
+     <body>
+    	
+     	<div id="pagetop">
+     		<div class="navbar-element" id="btn-home"><a href="#home" class="active2" onclick="return false;">Home </a></div>
+       		<div class="navbar-element" id="btn-about"> <a href="#about" onclick="return false;">About </a></div>
+       		<div class="navbar-element" id="btn-projects"><a href="#projects" onclick="return false;">Projects  </a></div>
+       		<div class="navbar-element" id="btn-team"> <a href="#team" onclick="return false;">Team</a></div>
+     	</div>
 
 
-<body>
+     	<main class="cd-main-content">
+		
+		<div class="cd-fixed-bg cd-bg-1" id="home">
+			<div class="fadein"><h1>Where Ideas are Born</h1></div>
+		</div> <!-- cd-fixed-bg -->
+		 
+		 
+		<div class="cd-scrolling-bg cd-color-2" id="about">
+			<div class="cd-container" >
+					<h1 align="center">The Ideo Project</h1>
+					<div class="bottom">
+  					<div style="float: left; width: 33%;margin-right:0.5%;">
+  						<div align="center">
+  						<i class="fa fa-inbox fa-5x"></i>
+  						</div>
+  						<div align="center">
+  						The ideo project is a medium for people to share their ideas. It allows ideas to bounce off and give birth to (hopefully) ground breaking ideas.
+  						</div>
+  					</div>
+  					<div style="float: left; width: 33%;margin-right:0.5%;">
+  						<div align="center">
+  						<i class="fa fa-desktop fa-5x"></i>
+  						</div>
+  						<div align="center">		
+  						It's not so much a product rather than a manifesto. It takes form of web application, mobile application or even real world conversation.
+  					</div>
+  					</div>
+  					<div style="float: left; width: 33%;">
+  						<div align="center">
+  						<i class="fa fa-camera-retro fa-5x"></i>
+  						</div>
+  						<div align="center">
+  						The vision of this project is to able to capture process how great ideas are formed and try emulate the best condition for ideas to grow
+  						</div>
+  					</div>
+				</div>
+			</div> <!-- cd-container -->
+		</div> <!-- cd-scrolling-bg -->
 
-    <!-- Navigation -->
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/">Stefanus Hinardi</a>
-        </div>
+		<div class="cd-fixed-bg cd-bg-2">
+			<h2>"Eventually everything connects - people, ideas, objects. The quality of the connections is the key to quality per se."   -Charles Eames</h2>
+		</div> <!-- cd-fixed-bg -->
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="/">Home</a>
-                </li>
-                
-                <li>
-                    <a href="/about/">About</a>
-                </li>
-                
-                <li>
-                    <a href="/contact/">Contact</a>
-                </li>
-                
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
-
-
-    <!-- Page Header -->
-<header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <h1>Stefanus Hinardi</h1>
-                    <hr class="small">
-                    <span class="subheading">Just a little persepctive</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
-
-<!-- Main Content -->
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+		<div class="cd-scrolling-bg cd-color-3" id="projects">
+			<div class="cd-container" >
 			
-<div class="post-preview">
-    <a href="/2015/01/19/hello/">
-        <h2 class="post-title">            Hello World
-        </h2>
+				<h1 align="center">Current Projects</h1>
+
+       			 <div class="container">
+          			<div id="slider">
+            			<ul class="slides">
+              				<li class="slide slide1"></li>
+              				<li class="slide slide2"></li>
+              				<li class="slide slide3"></li>
+              				<li class="slide slide1"></li>
+            			</ul>
+          			</div>
+
+        		</div>
+
+      			
+        		<div style="padding-left:10px">
+			<h2 style="color:black;font-size:30px; padding-bottom:30px;padding-top:20px padding-left:60px;padding-right:30px;" align="center">Currently, we are doing 3 main projects. The first one is a co-working space with 'coffee-shop' concept. Secondly, we are also building presence through Medium, which has the same vision as us. Lastly, we are building mobile app that allows people to track 'snippet' of their ideas during the day</h2>	
+				</div>
+			</div> <!-- cd-container -->
+		</div> <!-- cd-scrolling-bg -->
+
+		<div class="cd-fixed-bg cd-bg-3">
+			<h2>"The difficulty lies not so much in developing new ideas as in escaping from old ones" - John Keynes</h2>
+		</div> <!-- cd-fixed-bg -->
+
+		<div class="cd-scrolling-bg cd-color-1" id="team">
+			<div class="cd-container">
+				<h1 align="center">Team</h1>
+
+				<p>
+					<div class="circular" id="modal-launcher" href="#" onclick="return false;"></div>
+				</p>
+
+				<div id="modal-background"></div>
+         <div id="modal-content" class="contentbox">
+          <i id="modal-close" class="fa fa-times"></i>
+          <br>
+          	<div align="center">
+          	Stefanus goes to University of Illinois Urbana-Champaign, studying Computer Engineering. He is passionate about technology and education. His mission is to map and visualize all the knowledge in the universe(it does sound a bit too much). On his free time, he likes to sleep.
+          </div>
+        </div>
         
-        <h3 class="post-subtitle">
-            The day I decided to share my thoughts to the world
-        </h3>
-        
-    </a>
-    <p class="post-meta">Posted on January 19, 2015</p>
-</div>
-<hr>
+			</div> <!-- cd-container -->
+		</div> <!-- cd-scrolling-bg -->
 
 
-<!-- Pager -->
+      	
 
+		<div id="footer">
+				<a href="http://www.facebook.com/stefanushinardi"><i class="fa fa-facebook"></i></a>
+				<a href="http://www.twitter.com/stefanushinardi"><i class="fa fa-twitter"></i></a>
+				<a href="http://www.github.com/stefanushinardi"><i class="fa fa-github-alt"></i></a>
 
 		</div>
-	</div>
-</div>
-
-<hr>
+	</main> <!-- cd-main-content -->
 
 
-    <!-- Footer -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <ul class="list-inline text-center">
-                    <li>
-                        <a href="/feed.xml">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    
-                    <li>
-                        <a href="https://twitter.com/stefanushinardi">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    
-                    
-                    <li>
-                        <a href="https://www.facebook.com/stefanushinardi">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    
-                    
-                    <li>
-                        <a href="https://github.com/stefanushinardi">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    
-                </ul>
-                <p class="copyright text-muted">Copyright &copy; Stefanus Hinardi 2015</p>
-            </div>
-        </div>
-    </div>
-</footer>
 
-<!-- jQuery -->
-<script src="/js/jquery.min.js "></script>
-
-<!-- Bootstrap Core JavaScript -->
-<script src="/js/bootstrap.min.js "></script>
-
-<!-- Custom Theme JavaScript -->
-<script src="/js/clean-blog.min.js "></script>
+      
 
 
-</body>
 
-</html>
+        <script src="lib/jquery-2.1.3.min/index.js"></script>
+        <script src="js/script.js"></script>
+        <script src="http://localhost:35729/livereload.js"></script>
+      </body>
+      </html>
