@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Stefanus Hinardi</title>
+ <link href="http://stefanus.me/atom.xml" rel="self"/>
+ <link href="http://stefanus.me/"/>
+ <updated>2015-04-22T12:09:27-05:00</updated>
+ <id>http://stefanus.me</id>
+ <author>
+   <name>Stefanus Adrian Hinardi</name>
+   <email>stefanus.hinardi@hotmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World!</title>
+   <link href="http://stefanus.me/2015/03/21/first-post/"/>
+   <updated>2015-03-21T00:00:00-05:00</updated>
+   <id>http://stefanus.me/2015/03/21/first-post</id>
+   <content type="html">&lt;h2&gt;Jason is the shit&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  I like them bitches!
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+
+</feed>
