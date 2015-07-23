@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Stefanus Hinardi</title>
+ <link href="http://stefanus.me/atom.xml" rel="self"/>
+ <link href="http://stefanus.me/"/>
+ <updated>2015-07-23T09:22:00-05:00</updated>
+ <id>http://stefanus.me</id>
+ <author>
+   <name>Stefanus Hinardi</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World!</title>
+   <link href="http://stefanus.me/2015/07/15/hello-world/"/>
+   <updated>2015-07-15T00:00:00-05:00</updated>
+   <id>http://stefanus.me/2015/07/15/hello-world</id>
+   <content type="html">
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;    
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Hola&lt;/em&gt; peeps! This would be my first ever blog post, &lt;em&gt;yeayy !&lt;/em&gt; I decided to start this blog mainly becuase I want to improve my writing skill ( trust me, it’s really &lt;em&gt;bad&lt;/em&gt; ) and share things that I’m passionate about. Hopefully you guys would find my posts interesting and helpful.&lt;/p&gt;
+
+&lt;p&gt;I’m mainly going to write about my life, tech stuff and probably a couple of tutorials. &lt;/p&gt;
+
+&lt;p&gt;Well, I guess that’s enough of an introduction. Let’s read on to some good stuff!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
