@@ -4,10 +4,10 @@
     <title>Stefanus Hinardi</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 May 2016 14:24:55 -0700</pubDate>
-    <lastBuildDate>Sat, 21 May 2016 14:24:55 -0700</lastBuildDate>
+    <link>http://www.stefanus.me/</link>
+    <atom:link href="http://www.stefanus.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 May 2016 14:35:31 -0700</pubDate>
+    <lastBuildDate>Sat, 21 May 2016 14:35:31 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -24,8 +24,8 @@
 
 </description>
         <pubDate>Sun, 03 Apr 2016 19:45:39 -0700</pubDate>
-        <link>localhost:4000/jekyll/update/2016/04/03/welcome.html</link>
-        <guid isPermaLink="true">localhost:4000/jekyll/update/2016/04/03/welcome.html</guid>
+        <link>http://www.stefanus.me/jekyll/update/2016/04/03/welcome.html</link>
+        <guid isPermaLink="true">http://www.stefanus.me/jekyll/update/2016/04/03/welcome.html</guid>
         
         
         <category>jekyll</category>
@@ -48,8 +48,8 @@
 
 </description>
         <pubDate>Sun, 03 Apr 2016 19:45:39 -0700</pubDate>
-        <link>localhost:4000/jekyll/update/2016/04/03/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">localhost:4000/jekyll/update/2016/04/03/welcome-to-jekyll.html</guid>
+        <link>http://www.stefanus.me/jekyll/update/2016/04/03/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.stefanus.me/jekyll/update/2016/04/03/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
