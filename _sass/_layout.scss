@@ -223,6 +223,7 @@
     }
     border-radius: 5px;
     transition: all 0.2s ease-in-out;
+    -webkit-filter: grayscale(0%);
     -webkit-transition:  scale 0.2s ease-in-out;
 }
 
@@ -230,18 +231,13 @@
     width: 200px;
     height: 500px;
 }
-.card-image:hover{
-    transform: scale(1.01);
-}
-.image1 {
-    background-image:url("http://stefanus.me/assets/profile.jpg");
-    -webkit-filter: grayscale(0%);
-}
 
-.image1:hover {
+.card-image:hover{
     filter: none;
     -webkit-filter: grayscale(100%);
     .post-meta{
         display: block;
     }
+    transform: scale(1.01);
 }
+

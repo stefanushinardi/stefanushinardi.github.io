@@ -4,6 +4,7 @@ title:  "Apriori"
 date:   2016-04-03 21:45:39 -0500
 categories: jekyll update
 description: Linux-like kernel for education
+picture: http://stefanus.me/assets/profile.jpg
 ---
 A small-code snipet to implement apriori frequent pattern mining
 {% highlight ruby %}
