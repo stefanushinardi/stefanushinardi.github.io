@@ -234,13 +234,13 @@
     transform: scale(1.01);
 }
 .image1 {
-    background-image:url("http:/stefanus.me/assets/profile.jpg");
-    -webkit-filter: grayscale(100%);
+    background-image:url("http://stefanus.me/assets/profile.jpg");
+    -webkit-filter: grayscale(0%);
 }
 
 .image1:hover {
     filter: none;
-    -webkit-filter: grayscale(0%);
+    -webkit-filter: grayscale(100%);
     .post-meta{
         display: block;
     }
