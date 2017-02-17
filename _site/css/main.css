@@ -37,6 +37,12 @@ img {
   max-width: 100%;
   vertical-align: middle; }
 
+.profile {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  margin: auto; }
+
 /**
  * Figures
  */
@@ -148,7 +154,7 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 3px solid #5D0D79;
+  border-top: 3px solid #595959;
   border-bottom: 1px solid #FFFFFF;
   min-height: 56px;
   position: relative; }
@@ -235,7 +241,7 @@ pre {
 
 .page-heading {
   font-size: 35px !important;
-  color: #5D0D79 !important; }
+  color: #595959 !important; }
 
 .post-list {
   margin-left: 0;
