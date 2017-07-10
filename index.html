@@ -1,12 +1,39 @@
 ---
 layout: default
+title: Stefanus Hinardi
 ---
 
-<div class="home">
-  <div class="profile-picture-wrapper">
-      <img class ="profile" src= "http://stefanus.me/assets/profile.jpg"></img>
+<section id="work">
+  <div class="work-item">
+    <div class="work-info">
+      <b>Xquare</b> <span class="work-spec"> <span class="dot">&bull;</span> Founder</span>
+    </div>
+    <img src="assets/xquare.png"/>
   </div>
-  <h1 class ="page-heading"> Hi, I am Stefanus!</h1>
-  <p>I am a software engineer intern at Amazon Web Services, recent <a href = "http://cs.illinois.edu">UIUC</a> grad. I am interested in distributed systems, networking, machine learning as well as HCI.</p>
-
-</div>
+  <div class="work-item">
+    <div class="work-info">
+      <b>The Coffee Project</b> <span class="work-spec"> <span class="dot">&bull;</span> Illustrator, UI/UX</span>
+    </div>
+    <img src="assets/coffee.png"/>
+  </div>
+  <div class="work-item">
+    <div class="work-info">
+      <b>Amazon</b> <span class="work-spec"> <span class="dot">&bull;</span> Software Engineering Intern</span>
+    </div>
+    <img src="assets/amazon.png"/>
+  </div>
+  <div class="work-item">
+    <div class="work-info">
+      <b>Yahoo!</b> <span class="work-spec"> <span class="dot">&bull;</span> Software Engineering Intern</span>
+    </div>
+    <img src="assets/yahoo.png"/>
+  </div>
+  <script>
+  $(document).ready(function() {
+    $('.work-item').hover(function() {
+      $(this).find('.work-info').css('transform', 'translateY(-35px)');
+    }, function() {
+      $(this).find('.work-info').css('transform', 'translateY(35px)');
+    })
+  })
+  </script>

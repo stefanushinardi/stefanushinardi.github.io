@@ -4,53 +4,72 @@ body {
   /*background: #F9F9F9;*/
   font-family: 'Karla', sans-serif;
   color: #37393e;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+}
 
 *,
 *:before,
 *:after {
-  box-sizing: border-box; }
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 
 /*-------------------------- TOPBAR --------------------------*/
+
 #topbar {
   height: 100px;
-  padding: 40px 100px; }
+  padding: 40px 100px;
+}
 
 #topbar a {
-  color: #37393e; }
+  color: #37393e;
+}
 
 #header {
   font-family: 'Rubik';
   font-size: 2em;
   max-width: 300px;
-  display: inline-block; }
+  display: inline-block;
+}
 
 #descrip {
   opacity: 0.8;
-  font-family: 'Karla', sans-serif; }
+  font-family: 'Karla', sans-serif;
+}
 
 #menu {
   font-family: 'Rubik', sans-serif;
   float: right;
   font-weight: 400;
   letter-spacing: 0.05em;
-  transition: 0.3s; }
+  transition: 0.3s;
+}
 
 #menu li {
   display: inline-block;
-  margin: 0 0 0 25px; }
+  margin: 0 0 0 25px;
+}
 
 #menu li:hover {
   cursor: pointer;
-  border-bottom: solid 2px; }
+  border-bottom: solid 2px;
+
+}
+
+
 
 /*-------------------------- WORK --------------------------*/
+
 #work {
   max-width: 945px;
-  margin: 25px auto; }
+  margin: 25px auto;
+}
 
 #work a {
-  color: #37393e; }
+  color: #37393e;
+}
 
 .work-item {
   position: relative;
@@ -58,15 +77,18 @@ body {
   height: 200px;
   float: left;
   margin: 25px 20px;
-  transition: 0.3s; }
+  transition: 0.3s;
+}
 
 .work-item img {
   width: 100%;
-  object-fit: cover; }
+  object-fit: cover;
+}
 
 .work-item img:hover {
   cursor: pointer;
-  box-shadow: 9px 9px #dcdcdc; }
+  box-shadow: 9px 9px #dcdcdc;
+}
 
 .work-info {
   font-family: 'Karla', sans-serif;
@@ -74,115 +96,158 @@ body {
   top: 10px;
   left: 8px;
   z-index: -10;
-  transition: 0.4s; }
+  transition: 0.4s;
+}
 
 .work-spec {
-  font-size: 0.75em; }
+  font-size: 0.75em;
+}
 
 .dot {
-  margin: 0 3px; }
+  margin: 0 3px;
+}
 
 /*-------------------------- ABOUT --------------------------*/
+
 #about-container {
   max-width: 600px;
-  margin: 15px auto; }
+  margin: 15px auto;
+}
 
 #about img {
   float: left;
   width: 200px;
   margin: 75px 25px 200px 25px;
-  border-radius: 100%; }
+  border-radius: 100%;
+}
 
 #about-text {
   padding: 20px;
   font-family: 'Hind', sans-serif;
-  font-size: 0.9em; }
+  font-size: 0.9em;
+}
 
 a {
   text-decoration: none;
-  color: #898989; }
+  color: #898989;
+}
 
 /*-------------------------- PROJECTS PAGES --------------------------*/
+
 #projects {
   max-width: 70vw;
   margin: 40px auto;
-  font-family: 'Hind', sans-serif; }
+  font-family: 'Hind', sans-serif;
+}
+
 
 .proj-title {
-  font-size: 2em; }
+  font-size: 2em;
+}
 
 .proj-sub {
   font-size: 0.9em;
   padding-bottom: 10px;
-  margin-top: -10px; }
+  margin-top: -10px;
+}
+
 
 .proj-descrip img {
   width: 100%;
   margin: 10px;
   margin-left: 50%;
-  -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
-  box-shadow: 1px 5px 18px #e2e2e2; }
+  transform: translateX(-50%);
+  box-shadow: 1px 5px 18px #e2e2e2;
+}
 
 #poke-img {
-  width: 350px; }
+  width: 350px;
+}
+
 
 .proj-snippet {
   text-align: center;
   font-size: 0.8em;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+}
 
 .view {
   font-weight: 700;
   display: inline-block;
   font-size: 0.9em;
-  cursor: pointer; }
+  cursor: pointer;
+}
 
 .view:hover {
-  text-decoration: underline; }
+  text-decoration: underline;
+}
+
 
 .back {
   opacity: 0.7;
-  cursor: pointer; }
+  cursor: pointer;
+}
 
 .back:hover {
-  text-decoration: underline; }
+  text-decoration: underline;
+}
 
 .proj-nav {
   float: right;
   margin-bottom: 100px;
-  opacity: 0.7; }
+  opacity: 0.7;
+}
 
 .seq {
-  color: #37393e; }
+  color: #37393e;
+}
 
 .seq:hover {
   cursor: pointer;
-  text-decoration: underline; }
+  text-decoration: underline;
+}
 
 #no-style:hover {
-  text-decoration: none; }
+  text-decoration: none;
+}
+
 
 /*-------------------------- MEDIA QUERIES --------------------------*/
+
 @media (max-width: 1075px) {
   #work {
-    max-width: 600px; }
+    max-width: 600px;
+  }
+
   .work-item {
     width: 250px;
     height: 150px;
-    margin: 50px 25px; } }
+    margin: 50px 25px;
+  }
+
+}
 
 @media (max-width: 765px) {
   #topbar {
-    padding: 40px 50px; }
+    padding: 40px 50px;
+  }
+
   #about-container {
-    padding: 0 30px; } }
+    padding: 0 30px;
+  }
+}
 
 @media (max-width: 650px) {
   #work {
-    max-width: 300px; } }
+    max-width: 300px;
+  }
+}
 
 @media (max-width: 539px) {
   #topbar {
     padding: 40px 50px;
-    font-size: 0.75em; } }
+    font-size: 0.75em;
+  }
+
+
+}
