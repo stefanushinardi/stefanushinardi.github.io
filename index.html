@@ -4,30 +4,18 @@ title: Stefanus Hinardi
 ---
 
 <section id="work">
-  <div class="work-item">
-    <div class="work-info">
-      <b>Xquare</b> <span class="work-spec"> <span class="dot">&bull;</span> Founder</span>
-    </div>
-    <img src="assets/xquare.png"/>
-  </div>
-  <div class="work-item">
-    <div class="work-info">
-      <b>The Coffee Project</b> <span class="work-spec"> <span class="dot">&bull;</span> Illustrator, UI/UX</span>
-    </div>
-    <img src="assets/coffee.png"/>
-  </div>
-  <div class="work-item">
-    <div class="work-info">
-      <b>Amazon</b> <span class="work-spec"> <span class="dot">&bull;</span> Software Engineering Intern</span>
-    </div>
-    <img src="assets/amazon.png"/>
-  </div>
-  <div class="work-item">
-    <div class="work-info">
-      <b>Yahoo!</b> <span class="work-spec"> <span class="dot">&bull;</span> Software Engineering Intern</span>
-    </div>
-    <img src="assets/yahoo.png"/>
-  </div>
+  {% for post in site.posts %}
+    {% if post.categories contains 'projects' %}
+      <a href="{{ post.url }}">
+        <div class="work-item">
+          <div class="work-info">
+            <b>{{ post.title }}</b> <span class="work-spec"> <span class="dot">&bull;</span> {{ post.role }}</span>
+          </div>
+          <img src={{ post.cover }} />
+        </div>
+      </a>
+    {%endif%}
+  {% endfor %}
   <script>
   $(document).ready(function() {
     $('.work-item').hover(function() {

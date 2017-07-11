@@ -34,11 +34,6 @@ body {
   display: inline-block;
 }
 
-#descrip {
-  opacity: 0.8;
-  font-family: 'Karla', sans-serif;
-}
-
 #menu {
   font-family: 'Rubik', sans-serif;
   float: right;
@@ -245,8 +240,8 @@ a {
 
 @media (max-width: 539px) {
   #topbar {
-    padding: 40px 50px;
-    font-size: 0.75em;
+    padding: 40px 20px;
+    font-size: 0.80em;
   }
 
 
