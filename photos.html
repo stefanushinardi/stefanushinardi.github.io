@@ -1,0 +1,15 @@
+---
+layout: default
+title: Stefanus Hinardi
+permalink: /photos/
+---
+<section id="projects">
+  <h1>Photo Posts</h1>
+   <ul class="posts">
+    {% for post in site.posts %}
+      {% if post.categories contains 'photos' %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {%endif%}
+    {% endfor %}
+  </ul>
+<section/>
