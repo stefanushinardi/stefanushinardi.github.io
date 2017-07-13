@@ -5,25 +5,15 @@ title: Stefanus Hinardi
 
 <section id="work">
   {% for post in site.posts %}
-    {% if post.categories contains 'projects' %}
-      <a href="{{ post.url }}">
-        <div class="work-item">
-          <div class="work-info">
-            <b>{{ post.title }}</b> <span class="work-spec"> <span class="dot">&bull;</span> {{ post.role }}</span>
-          </div>
-          <img src={{ post.cover }} />
-        </div>
-      </a>
-    {%endif%}
+  {% if post.categories contains 'projects' %}
+  <div class="work-item">
+    <div class="work-info">
+      <b>{{ post.title }}</b> <span class="work-spec"> <span class="dot">&bull;</span> {{ post.role }}</span>
+    </div>
+    <a href="{{ post.url }}">
+      <img class="work-image" src={{ post.cover }} />
+    </a>
+  </div>
+  {%endif%}
   {% endfor %}
-  <script>
-  $(document).ready(function() {
-    $('.work-item').hover(function() {
-      $(this).css('transform', 'translateY(-7px)');
-      $(this).find('.work-info').css('transform', 'translateY(-35px)');
-    }, function() {
-      $(this).css('transform', 'translateY(7px)');
-      $(this).find('.work-info').css('transform', 'translateY(35px)');
-    })
-  })
-  </script>
+</section>
