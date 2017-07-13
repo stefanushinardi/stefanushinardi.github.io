@@ -1,0 +1,40 @@
+/*-------------------------- TOPBAR --------------------------*/
+
+#topbar {
+  padding: $section-padding;
+  @media screen and (min-width: $media-pad) {
+    padding: $section-padding;
+  }
+  .topbar-container{
+    header {
+      margin: 0 auto;
+      display: block;
+      @media screen and (min-width: $media-pad) {
+        display: inline-block;
+      }
+      font-family: 'Rubik';
+      font-size: 2em;
+      max-width: 300px;
+    }
+    .menu {
+      padding-top: 1em;
+      font-family: 'Rubik', sans-serif;
+      display: inline-block;
+      font-weight: 400;
+      letter-spacing: 0.05em;
+      transition: 0.3s;
+      li {
+        display: inline-block;
+        margin: 0 0 0 20px;
+        @media (max-width: 539px) {
+          display: inline-block;
+          margin: 0 0 0 10px;
+        }
+        &:hover{
+          cursor: pointer;
+          border-bottom: solid 2px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+/*-------------------------- WORK --------------------------*/
+
+#work {
+  max-width: $media-screen;
+  margin: 0 auto;
+  .work-item {
+    margin: 30px;
+    display: inline-block;
+    position: relative;
+    transition: 0.3s;
+    @media screen and (min-width: $media-pad) {
+      width: 35%;
+    }
+    img.work-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      cursor: pointer;
+      transition: 0.3s;
+      box-shadow: 0 10px 20px 0px rgba(0,0,0,0.0);
+      &:hover{
+        box-shadow: 0 10px 20px 0px rgba(0,0,0,0.3);
+      }
+    }
+    .work-info {
+      position: absolute;
+      top: 10px;
+      left: 8px;
+      z-index: -10;
+      transition: 0.4s;
+      .work-spec {
+        font-size: 0.75em;
+      }
+      .dot {
+        margin: 0 3px;
+      }
+    }
+    &:hover{
+      transform: translateY(-7px);
+      .work-info{
+        transform: translateY(-35px);
+      }
+    }
+  }
+}

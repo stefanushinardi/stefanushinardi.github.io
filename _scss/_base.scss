@@ -1,0 +1,27 @@
+html{
+  font-size: 13px;
+  body {
+    margin: 0;
+    padding: $body-padding;
+    background: $bg-color;
+    font-family: 'Karla', sans-serif;
+    color: $purple;
+    min-width: $media-phone;
+  }
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+  color: $link-color;
+  &:visited {
+    color: inherit;
+  }
+}
