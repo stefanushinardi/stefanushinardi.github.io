@@ -19,8 +19,10 @@ title: Stefanus Hinardi
   <script>
   $(document).ready(function() {
     $('.work-item').hover(function() {
+      $(this).css('transform', 'translateY(-7px)');
       $(this).find('.work-info').css('transform', 'translateY(-35px)');
     }, function() {
+      $(this).css('transform', 'translateY(7px)');
       $(this).find('.work-info').css('transform', 'translateY(35px)');
     })
   })
