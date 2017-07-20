@@ -1,5 +1,4 @@
 name: Stefanus Hinardi
-markdown: redcarpet
 baseurl: ""
 highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
