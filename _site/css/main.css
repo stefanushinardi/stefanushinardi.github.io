@@ -32,119 +32,13 @@ a:hover {
 a:visited {
   color: #a0a; }
 
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
-.posts {
-  list-style-type: none;
-  margin-bottom: 2em; }
-
-.posts li {
-  line-height: 1.75em; }
-
-.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%; }
-
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-.site {
-  font-size: 115%;
-  text-align: justify;
-  margin-left: 20%;
-  margin-right: 20%;
-  line-height: 1.5em; }
-
-.header a {
-  font-weight: bold;
-  text-decoration: none; }
-
-.title {
-  display: inline-block; }
-
-.title a {
-  color: #a00; }
-
-.title a:hover {
-  color: #000; }
-
-.header a.extra {
-  color: #aaa;
-  margin-left: 0.5em; }
-
-.header a.extra:hover {
-  color: #000; }
-
-.meta {
-  color: #aaa; }
-
-.footer {
-  font-size: 80%;
-  color: #666;
-  margin-top: 2em;
-  overflow: hidden; }
-
-.footer .contact {
-  float: left;
-  margin-right: 3em; }
-
-.footer .contact a {
-  color: #8085C1; }
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right; }
-
-.footer .rss img {
-  border: 0; }
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-/* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em; }
-
-.post ul, .post ol {
-  margin-left: 1.35em; }
-
-.post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em; }
-
-.post pre code {
-  border: none; }
-
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF; }
-
-.post pre.terminal code {
-  background-color: #333; }
-
-html {
-  font-size: 13px; }
-  html body {
-    margin: 0;
-    padding: 0 20px;
-    background: #F9F9F9;
-    font-family: 'Karla', sans-serif;
-    color: #37393e;
-    min-width: 320px; }
+html body {
+  margin: 0;
+  padding: 0 20px;
+  background: #FFFFFF;
+  font-family: 'Karla', sans-serif;
+  color: #37393e;
+  min-width: 320px; }
 
 *,
 *:before,
@@ -156,6 +50,9 @@ a {
   color: #898989; }
   a:visited {
     color: inherit; }
+
+p {
+  line-height: 2; }
 
 .highlight {
   background: #ffffff; }
@@ -413,26 +310,34 @@ a {
 /* Literal.Number.Integer.Long */
 /*-------------------------- TOPBAR --------------------------*/
 #topbar {
-  padding: 5rem; }
+  padding: 1.5rem; }
   @media screen and (min-width: 768px) {
     #topbar {
-      padding: 5rem; } }
+      padding: 3.5rem; } }
   #topbar .topbar-container header {
+    float: none;
     margin: 0 auto;
     display: block;
     font-family: 'Rubik';
-    font-size: 2em;
+    font-size: 2.2em;
     max-width: 300px; }
     @media screen and (min-width: 768px) {
       #topbar .topbar-container header {
-        display: inline-block; } }
+        display: inline-block;
+        float: left; } }
   #topbar .topbar-container .menu {
-    padding-top: 1em;
+    font-size: 1.5em;
+    float: none;
+    padding-top: 0.5em;
     font-family: 'Rubik', sans-serif;
     display: inline-block;
     font-weight: 400;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.1em;
     transition: 0.3s; }
+    @media screen and (min-width: 768px) {
+      #topbar .topbar-container .menu {
+        display: inline-block;
+        float: right; } }
     #topbar .topbar-container .menu li {
       display: inline-block;
       margin: 0 0 0 20px; }
@@ -441,21 +346,30 @@ a {
           display: inline-block;
           margin: 0 0 0 10px; } }
       #topbar .topbar-container .menu li:hover {
-        cursor: pointer;
-        border-bottom: solid 2px; }
+        cursor: pointer; }
 
 /*-------------------------- WORK --------------------------*/
 #work {
   max-width: 1024px;
   margin: 0 auto; }
+  #work .about-desc {
+    margin-bottom: 35px;
+    line-height: 2;
+    font-size: 1.2em; }
+    @media screen and (min-width: 768px) {
+      #work .about-desc {
+        font-size: 1.5em; } }
+  #work .work-label {
+    font-size: 1em; }
+    @media screen and (min-width: 768px) {
+      #work .work-label {
+        font-size: 1.3em; } }
   #work .work-item {
-    margin: 30px;
+    margin: 15px 15px 20px 0px;
     display: inline-block;
     position: relative;
-    transition: 0.3s; }
-    @media screen and (min-width: 768px) {
-      #work .work-item {
-        width: 35%; } }
+    transition: 0.3s;
+    max-width: 275px; }
     #work .work-item img.work-image {
       width: 100%;
       height: 100%;
@@ -503,43 +417,51 @@ a {
 
 /*-------------------------- PROJECTS PAGES --------------------------*/
 #work, #projects {
-  max-width: 70vw;
+  max-width: 65vw;
   margin: 40px auto;
-  font-family: 'Hind', sans-serif; }
+  font-family: 'Rubik', sans-serif; }
   #work .proj-title, #projects .proj-title {
-    font-size: 2em; }
-  #work .proj-descrip p img, #projects .proj-descrip p img {
-    width: 100%;
-    margin-left: 50%;
-    -webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
-    box-shadow: 1px 5px 18px #e2e2e2; }
-  #work #poke-img, #projects #poke-img {
-    width: 350px; }
+    text-align: left;
+    font-size: 1.2em;
+    margin-bottom: 10px; }
+  #work .proj-sub, #projects .proj-sub {
+    text-align: left;
+    font-size: 1.5em; }
+    #work .proj-sub .view, #projects .proj-sub .view {
+      cursor: pointer;
+      font-size: 0.7em; }
+      #work .proj-sub .view:hover, #projects .proj-sub .view:hover {
+        text-decoration: underline;
+        opacity: 0.5; }
+  #work .proj-descrip, #projects .proj-descrip {
+    text-align: left; }
+    #work .proj-descrip p, #projects .proj-descrip p {
+      font-family: 'Karla', sans-serif;
+      font-size: 1.2em;
+      text-align: left;
+      margin-bottom: 2rem;
+      margin-top: 2rem; }
+      @media screen and (min-width: 768px) {
+        #work .proj-descrip p, #projects .proj-descrip p {
+          font-size: 1.5em; } }
+    #work .proj-descrip p img, #projects .proj-descrip p img {
+      width: 100%;
+      box-shadow: 1px 5px 18px #e2e2e2; }
+  #work .posts, #projects .posts {
+    text-align: left;
+    font-size: 1.8em; }
   #work .proj-snippet, #projects .proj-snippet {
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1.2em;
     margin-bottom: 15px; }
-  #work .view, #projects .view {
-    font-weight: 700;
-    display: inline-block;
-    font-size: 0.9em;
-    cursor: pointer; }
-    #work .view:hover, #projects .view:hover {
-      text-decoration: underline; }
   #work .back, #projects .back {
+    font-size: 1em;
     opacity: 0.7;
     cursor: pointer; }
+    @media screen and (min-width: 768px) {
+      #work .back, #projects .back {
+        font-size: 1.2em; } }
     #work .back:hover, #projects .back:hover {
       text-decoration: underline; }
-  #work .proj-nav, #projects .proj-nav {
-    float: right;
-    margin-bottom: 100px;
-    opacity: 0.7; }
-  #work .seq, #projects .seq {
-    color: #37393e; }
-    #work .seq:hover, #projects .seq:hover {
-      cursor: pointer;
-      text-decoration: underline; }
-  #work #no-style:hover, #projects #no-style:hover {
-    text-decoration: none; }
+  #work .posts, #projects .posts {
+    list-style: none; }

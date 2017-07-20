@@ -7,6 +7,8 @@ cover: "assets/amazon.png"
 link: "https://aws.amazon.com/glue/"
 categories: projects
 ---
+This summer, I am interning at Amazon Web Services. I am a part of a new service called Glue.
+
 ![Amazon Picture]({{ site.url }}/assets/amazon.png)
 
-This summer, I am interning at Amazon Web Services. I am a part of a new service called Glue. Glue is a fully managed ETL service that makes it easy to move data between your data stores. More details to come once the service launch to the public :)
+Glue is a fully managed ETL service that makes it easy to move data between your data stores.More details of my contributions to come once the service launch to the public :)

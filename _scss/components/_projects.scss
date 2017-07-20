@@ -1,64 +1,70 @@
 /*-------------------------- PROJECTS PAGES --------------------------*/
 
-#work,#projects { 
-  max-width: 70vw;
+#work,#projects {
+  max-width: 65vw;
   margin: 40px auto;
-  font-family: 'Hind', sans-serif;
+  font-family: 'Rubik', sans-serif;
+
   .proj-title {
-    font-size: 2em;
+    text-align: left;
+    font-size: 1.2em;
+    margin-bottom: 10px;
   }
+  .proj-sub {
+    text-align: left;
+    font-size: 1.5em;
+    .view {
+      cursor: pointer;
+      font-size: 0.7em;
+      &:hover{
+        text-decoration: underline;
+        opacity: 0.5;
+      }
+    }
+  }
+
   .proj-descrip{
+    text-align: left;
+
+    p {
+      font-family: 'Karla', sans-serif;
+      @media screen and (min-width: $media-pad) {
+        font-size: 1.5em;
+      }
+      font-size: 1.2em;
+      text-align: left;
+      margin-bottom: 2rem;
+      margin-top: 2rem;
+    }
     p img{
       width: 100%;
-      margin-left: 50%;
-      transform: translateX(-50%);
       box-shadow: 1px 5px 18px #e2e2e2;
     }
   }
-  #poke-img {
-    width: 350px;
-  }
 
+  .posts {
+    text-align: left;
+    font-size: 1.8em;
+  }
 
   .proj-snippet {
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1.2em;
     margin-bottom: 15px;
   }
 
-  .view {
-    font-weight: 700;
-    display: inline-block;
-    font-size: 0.9em;
-    cursor: pointer;
-    &:hover{
-      text-decoration: underline;
-    }
-  }
-
   .back {
+    @media screen and (min-width: $media-pad) {
+      font-size: 1.2em;
+    }
+    font-size: 1em;
     opacity: 0.7;
     cursor: pointer;
     &:hover{
       text-decoration: underline;
     }
   }
-
-  .proj-nav {
-    float: right;
-    margin-bottom: 100px;
-    opacity: 0.7;
-  }
-
-  .seq {
-    color: #37393e;
-    &:hover{
-      cursor: pointer;
-      text-decoration: underline;
-    }
-  }
-
-  #no-style:hover {
-    text-decoration: none;
+  .posts{
+    list-style: none;
   }
 }

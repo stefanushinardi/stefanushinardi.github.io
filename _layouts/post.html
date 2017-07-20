@@ -2,15 +2,19 @@
 layout: default
 ---
 <section id="work">
-	<div class="proj-title">{{page.title}}</div>
+	<div class="proj-title">
+    <h1>{{page.title}}</h1>
+  </div>
+
 	<div class="proj-sub">
-		{{page.role}}
+		<p>{{page.role}}</p>
+    <a target="_blank" href={{page.link}}>
+      <div class="view">
+        <a href={{page.link}}>view site &rarr;</a>
+      </div>
+    </a>
 	</div>
-	<a target="_blank" href={{page.link}}>
-		<div class="view">
-			view site &rarr;
-		</div>
-	</a>
+
 
 	<div class="proj-descrip">
 		{{content}}

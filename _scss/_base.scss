@@ -1,5 +1,4 @@
 html{
-  font-size: 13px;
   body {
     margin: 0;
     padding: $body-padding;
@@ -24,4 +23,8 @@ a{
   &:visited {
     color: inherit;
   }
+}
+
+p{
+  line-height: 2;
 }
