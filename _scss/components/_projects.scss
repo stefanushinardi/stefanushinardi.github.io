@@ -1,7 +1,7 @@
 /*-------------------------- PROJECTS PAGES --------------------------*/
 
 #work,#projects {
-  max-width: 65vw;
+  max-width: 800px;
   margin: 40px auto;
   font-family: 'Rubik', sans-serif;
 
@@ -44,7 +44,10 @@
 
   .posts {
     text-align: left;
-    font-size: 1.8em;
+    font-size: 1.3em;
+    @media screen and (min-width: $media-pad) {
+      font-size: 1.8em;
+    }
   }
 
   .proj-snippet {
