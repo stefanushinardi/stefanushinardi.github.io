@@ -3,8 +3,7 @@ layout: blog
 title:  "Website Redesign"
 role: "SDE Intern"
 date:   2017-05-01
-cover: "assets/amazon.png"
-link: "https://aws.amazon.com/glue/"
+desc: Why do I keep changing my personal website?
 categories: blog
 ---
 
