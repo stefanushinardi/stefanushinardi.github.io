@@ -1,6 +1,9 @@
 /*-------------------------- PROJECTS PAGES --------------------------*/
 
 #work,#projects {
+  img {
+  -o-object-fit: contain;
+  }
   max-width: 800px;
   margin: 40px auto;
   font-family: 'Rubik', sans-serif;
@@ -25,9 +28,12 @@
 
   .proj-descrip{
     text-align: left;
-
-    p {
-      font-family: 'Karla', sans-serif;
+    ul {
+      margin: 0;
+    }
+    p, li {
+      
+      font-family: $secondary-font;
       @media screen and (min-width: $media-pad) {
         font-size: 1.5em;
       }
@@ -37,8 +43,9 @@
       margin-top: 2rem;
     }
     p img{
-      width: 100%;
       box-shadow: 1px 5px 18px #e2e2e2;
+      max-height: 500px;
+      width: 100%;
     }
   }
 
@@ -75,18 +82,46 @@
     text-align: left;
     font-size: 2em;
     p {
-        font-family: 'Karla';
+        font-family: $secondary-font;
         font-size: 0.5em;
         font-style: italic;
         
     }
     @media screen and (min-width: $media-pad) {
       font-size: 2.3em;
-    p {
-        font-size: 0.7em;
-    }
+      p {
+          font-size: 0.7em;
+      }
     }
     list-style: none;
   
   }
+  .cool-link {
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    line-height: 2em;
+    }
+
+    .cool-link::after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 10px;
+        background: #FCEF3A;
+        transition: width .3s;
+        margin-top: -10px;
+    }
+
+    .cool-link:hover::after {
+        width: 100%;
+        //transition: width .3s;
+    }
+    .portrait {
+         height: 50%;
+        width: 50%;
+
+      object-fit: contain;
+
+    }
 }

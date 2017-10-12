@@ -3,7 +3,7 @@ html{
     margin: 0;
     padding: $body-padding;
     background: $bg-color;
-    font-family: 'Karla', sans-serif;
+    font-family: $primary-font;
     color: $purple;
     min-width: $media-phone;
   }
@@ -27,4 +27,8 @@ a{
 
 p{
   line-height: 2;
+}
+
+.footer {
+   display: block; 
 }
