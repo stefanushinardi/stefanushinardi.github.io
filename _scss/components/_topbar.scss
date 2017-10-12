@@ -2,9 +2,8 @@
 
 #topbar {
   padding: 1.5rem;
-  @media screen and (min-width: $media-pad) {
-    padding: 3.5rem;
-  }
+  max-width: 1000px;
+  margin: 40px auto;
   .topbar-container{
     header {
       float: none;

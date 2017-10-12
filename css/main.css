@@ -36,7 +36,7 @@ html body {
   margin: 0;
   padding: 0 20px;
   background: #FFFFFF;
-  font-family: 'Karla', sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #37393e;
   min-width: 320px; }
 
@@ -53,6 +53,9 @@ a {
 
 p {
   line-height: 2; }
+
+.footer {
+  display: block; }
 
 .highlight {
   background: #ffffff; }
@@ -310,10 +313,9 @@ p {
 /* Literal.Number.Integer.Long */
 /*-------------------------- TOPBAR --------------------------*/
 #topbar {
-  padding: 1.5rem; }
-  @media screen and (min-width: 768px) {
-    #topbar {
-      padding: 3.5rem; } }
+  padding: 1.5rem;
+  max-width: 1000px;
+  margin: 40px auto; }
   #topbar .topbar-container header {
     float: none;
     margin: 0 auto;
@@ -399,6 +401,22 @@ p {
       #work .work-item:hover .work-info {
         -webkit-transform: translateY(-35px);
                 transform: translateY(-35px); }
+  #work .cool-link {
+    display: inline-block;
+    color: #000;
+    text-decoration: none; }
+  #work .cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #000;
+    transition: width .3s; }
+  #work .cool-link:hover::after {
+    width: 100%; }
+  #work .portrait {
+    height: 100%;
+    object-fit: contain; }
 
 /*-------------------------- ABOUT --------------------------*/
 #about-container {
@@ -424,6 +442,8 @@ p {
   max-width: 800px;
   margin: 40px auto;
   font-family: 'Rubik', sans-serif; }
+  #work img, #projects img {
+    -o-object-fit: contain; }
   #work .proj-title, #projects .proj-title {
     text-align: left;
     font-size: 1.2em;
@@ -439,18 +459,21 @@ p {
         opacity: 0.5; }
   #work .proj-descrip, #projects .proj-descrip {
     text-align: left; }
-    #work .proj-descrip p, #projects .proj-descrip p {
-      font-family: 'Karla', sans-serif;
+    #work .proj-descrip ul, #projects .proj-descrip ul {
+      margin: 0; }
+    #work .proj-descrip p, #work .proj-descrip li, #projects .proj-descrip p, #projects .proj-descrip li {
+      font-family: "Karla", sans-serif;
       font-size: 1.2em;
       text-align: left;
       margin-bottom: 2rem;
       margin-top: 2rem; }
       @media screen and (min-width: 768px) {
-        #work .proj-descrip p, #projects .proj-descrip p {
+        #work .proj-descrip p, #work .proj-descrip li, #projects .proj-descrip p, #projects .proj-descrip li {
           font-size: 1.5em; } }
     #work .proj-descrip p img, #projects .proj-descrip p img {
-      width: 100%;
-      box-shadow: 1px 5px 18px #e2e2e2; }
+      box-shadow: 1px 5px 18px #e2e2e2;
+      max-height: 500px;
+      width: 100%; }
   #work .posts, #projects .posts {
     text-align: left;
     font-size: 1.3em; }
@@ -477,7 +500,7 @@ p {
     font-size: 2em;
     list-style: none; }
     #work .writing-front p, #projects .writing-front p {
-      font-family: 'Karla';
+      font-family: "Karla", sans-serif;
       font-size: 0.5em;
       font-style: italic; }
     @media screen and (min-width: 768px) {
@@ -485,3 +508,22 @@ p {
         font-size: 2.3em; }
         #work .writing-front p, #projects .writing-front p {
           font-size: 0.7em; } }
+  #work .cool-link, #projects .cool-link {
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    line-height: 2em; }
+  #work .cool-link::after, #projects .cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 10px;
+    background: #FCEF3A;
+    transition: width .3s;
+    margin-top: -10px; }
+  #work .cool-link:hover::after, #projects .cool-link:hover::after {
+    width: 100%; }
+  #work .portrait, #projects .portrait {
+    height: 50%;
+    width: 50%;
+    object-fit: contain; }
