@@ -4,12 +4,15 @@
   max-width: $media-screen;
   margin: 0 auto;
   .about-desc {
+    text-align: left;
     margin-bottom: 35px;
+    margin-top: 1.5em;
     line-height: 2;
     @media screen and (min-width: $media-pad) {
-      font-size: 1.5em;
+      font-size: 3em;
+      margin-top: 1.5em;
     }
-    font-size: 1.2em;
+    font-size: 3em;
 
   }
   .work-label {
