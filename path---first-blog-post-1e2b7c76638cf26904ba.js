@@ -1,0 +1,2 @@
+webpackJsonp([0xc8f9a49f58dd],{494:function(t,e){t.exports={data:{markdownRemark:{html:"<p>As I try to experiment with different static blogging generator, I stumbled upon this particular framwork.</p>\n<p>Really nice, intuitive, and easy. I plan to write on this blog for an extended period of time</p>",frontmatter:{title:"First Blog Post Using Gatsby"}}},pathContext:{slug:"/first-blog-post/",_PARENT:"SOURCE"}}}});
+//# sourceMappingURL=path---first-blog-post-1e2b7c76638cf26904ba.js.map
