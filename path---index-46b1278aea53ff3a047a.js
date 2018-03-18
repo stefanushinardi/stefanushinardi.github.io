@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{495:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"First Blog Post Using Gatsby",date:"10 August, 2017"},fields:{slug:"/first-blog-post/"},excerpt:"As I try to experiment with different static blogging generator, I stumbled upon this particular framwork. Really nice, intuitive, and easy…"}}]}},pathContext:{_PARENT:"SOURCE"}}}});
-//# sourceMappingURL=path---index-46b1278aea53ff3a047a.js.map
