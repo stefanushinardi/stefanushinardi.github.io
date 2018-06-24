@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Stefanus Hinardi]]></title><description><![CDATA[Stefanus Hinardi]]></description><link>http://stefanus.me</link><generator>RSS for Node</generator><lastBuildDate>Mon, 02 Apr 2018 05:20:24 GMT</lastBuildDate><item><title><![CDATA[California Zephyr Trip]]></title><description><![CDATA[In the spring of 2018, I took a train from Emeryville, California to Chicago, Illinois. The total trip time is about 52 hours (When I rode…]]></description><link>http://stefanus.me/california-zephyr-trip/</link><guid isPermaLink="false">http://stefanus.me/california-zephyr-trip/</guid><pubDate>Sun, 25 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2018, I took a train from Emeryville, California to Chicago, Illinois. The total trip time is about 52 hours (When I rode it, it was 58 hours due to some unforseen events).&lt;/p&gt;
-&lt;p&gt;The first time I knew about California Zephyr is from this &lt;a href=&quot;http://dereklow.co/across-the-usa-by-train-for-just-213/&quot;&gt;blog post&lt;/a&gt;. The blog post has documented different parts/aminites/things to do on the trains, so I won’t get into that as well. Instead, I will try to document the trip from my perspective.&lt;/p&gt;
-&lt;p&gt;Why did I decide to spend more money to go somewhere that takes longer? Honestly, I don’t know. Maybe the romantic nostalgic of old-time traveling method appealed to me.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Stefanus Hinardi]]></title><description><![CDATA[Stefanus Hinardi]]></description><link>http://stefanus.me</link><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Jun 2018 23:58:13 GMT</lastBuildDate><item><title><![CDATA[California Zephyr Trip]]></title><description><![CDATA[In the spring of 2018, I took a train from Emeryville, California to Chicago, Illinois. The total trip time is about 52 hours (When I rode…]]></description><link>http://stefanus.me/california-zephyr-trip/</link><guid isPermaLink="false">http://stefanus.me/california-zephyr-trip/</guid><pubDate>Fri, 25 May 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2018, I took a train from Emeryville, California to Chicago, Illinois. The total trip time is about 52 hours (When I rode it, it was 58 hours due to some unforseen events).&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-01800.jpg&quot;
+    href=&quot;/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-86644.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -12,7 +10,46 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 28.500000000000004%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAawzAP/EABYQAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAQABBQJQ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BZ//EABQQAQAAAAAAAAAAAAAAAAAAABD/2gAIAQEABj8Cf//EABcQAQADAAAAAAAAAAAAAAAAAAABEUH/2gAIAQEAAT8hYvL/2gAMAwEAAgADAAAAEA/v/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAEDAQE/EBF//8QAFREBAQAAAAAAAAAAAAAAAAAAEDH/2gAIAQIBAT8Qo//EABkQAQADAQEAAAAAAAAAAAAAAAEAETFBgf/aAAgBAQABPxAKsXsV2wxJ7P/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;The famous Amtrak Steak&quot;
+        title=&quot;&quot;
+        src=&quot;/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-35ce3.jpg&quot;
+        srcset=&quot;/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-b3814.jpg 163w,
+/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-be6ed.jpg 325w,
+/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-35ce3.jpg 650w,
+/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-57f68.jpg 975w,
+/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-86644.jpg 1200w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The first time I knew about California Zephyr is from this &lt;a href=&quot;http://dereklow.co/across-the-usa-by-train-for-just-213/&quot;&gt;blog post&lt;/a&gt;. The blog post has documented many things about parts/amenities/things to do on the trains, so I won’t get into that as well. Instead, I will try to document the trip from my perspective.&lt;/p&gt;
+&lt;h2&gt;Why?&lt;/h2&gt;
+&lt;p&gt;A lot of people asked me: “Why did you decide to spend more money to go somewhere with longer travel time?” Honestly, I don’t know. Maybe the romantic nostalgic of old-time traveling method appealed to me. Knowing that this was how people used to travel back in day reminded me how much progressed we have made.&lt;/p&gt;
+&lt;p&gt;Another reason is because I want some uninterrupted time to myself to read books and just think. As mentioned in Deep Work by Cal Newport, some people like Peter Shankman, founder of reporter database HARO, flew a round trip flight from LA to Tokyo to complete a manuscript for a book deal. Did I miraculously write a 500 pages book? Nope! But it was a refreshing time to slow down and do one thing at a time.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c5a98.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -23,30 +60,27 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The famous Amtrak Steak&quot;
         title=&quot;&quot;
-        src=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-f8fb9.jpg&quot;
-        srcset=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-e8976.jpg 148w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-63df2.jpg 295w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-f8fb9.jpg 590w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-85e3d.jpg 885w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-d1924.jpg 1180w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-9452e.jpg 1770w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-01800.jpg 4032w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-35ce3.jpg&quot;
+        srcset=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-b3814.jpg 163w,
+/static/scenary_1-5bacec91de003d482083a9423ff39ce2-be6ed.jpg 325w,
+/static/scenary_1-5bacec91de003d482083a9423ff39ce2-35ce3.jpg 650w,
+/static/scenary_1-5bacec91de003d482083a9423ff39ce2-57f68.jpg 975w,
+/static/scenary_1-5bacec91de003d482083a9423ff39ce2-a07f6.jpg 1300w,
+/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c3232.jpg 1950w,
+/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c5a98.jpg 4032w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;h2&gt;What I did&lt;/h2&gt;
-&lt;p&gt;I, I would locked myself in my room. Due to lack of internet connectivity, I was able to read books uninterrupted (Mostly by myself), finished some research work as well as writing.
-As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked herself in a hotel room when she was writing Harry Potter and book a round trip flight from LA to Tokyo to .&lt;/p&gt;
-&lt;h2&gt;The people you meet&lt;/h2&gt;
-&lt;p&gt;Every time you go to the dinning car, you will place in an table with people you never met before. During the trip, I have enjoyed meals and conversations with people ranging from  an Australian retiree who were traveling across the world (New Zealand to New York) to a freshman from University of Illinois(my alma mater).&lt;/p&gt;
+&lt;h2&gt;Things that I did&lt;/h2&gt;
+&lt;p&gt;For most of my time there, I locked myself in my sleeper cabin. Due to lack of internet connectivity, I was able to read books uninterrupted, finished some research work as well as writing.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-01800.jpg&quot;
+    href=&quot;/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c5a98.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -54,7 +88,48 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABaLQHUc4L/8QAGxABAQABBQAAAAAAAAAAAAAAAQITAAMREiH/2gAIAQEAAQUCeq2honb4yeI1WWpf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AYj/xAAZEAADAQEBAAAAAAAAAAAAAAAAATEREnH/2gAIAQEABj8CbdZSb6cKmYNH/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAITFhQVGB/9oACAEBAAE/IW6LG+Yp7ahwH3CYwjYxlNV3DdAvAM//2gAMAwEAAgADAAAAEJD/AP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QUOWL/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxA12Vf/xAAfEAEAAgEFAAMAAAAAAAAAAAABESEAMUFRgaFhsdH/2gAIAQEAAT8QFQ0EabaU94xOQoWRBzH5jMnbmz96Y8tIlpBcZeQZhvfz73hVIFsR39z/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;The famous Amtrak Steak&quot;
+        title=&quot;&quot;
+        src=&quot;/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-35ce3.jpg&quot;
+        srcset=&quot;/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-b3814.jpg 163w,
+/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-be6ed.jpg 325w,
+/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-35ce3.jpg 650w,
+/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-57f68.jpg 975w,
+/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-a07f6.jpg 1300w,
+/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c3232.jpg 1950w,
+/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c5a98.jpg 4032w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I also went to the sightseeing lounge to enjoy the ever changing sceneries while traveling across the states.&lt;/p&gt;
+&lt;h2&gt;The people I met&lt;/h2&gt;
+&lt;p&gt;Every time you go to the dinning car, you will place in an table with people you never met before (Unless you are traveling in a group of 4). I am not particularly an extroverted person, most of the time I will prefer awkward silence than small talks.&lt;/p&gt;
+&lt;p&gt;However, I decided to be more approachable and take the initiative to start conversations. As a result, I have enjoyed conversations with people ranging from an Australian retiree who were traveling across the world (New Zealand to New York) to a freshman from University of Illinois (where I went form undergrad) while eating surprisingly delicious Amtrak Steak.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c5a98.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -65,25 +140,24 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The famous Amtrak Steak&quot;
         title=&quot;&quot;
-        src=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-f8fb9.jpg&quot;
-        srcset=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-e8976.jpg 148w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-63df2.jpg 295w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-f8fb9.jpg 590w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-85e3d.jpg 885w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-d1924.jpg 1180w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-9452e.jpg 1770w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-01800.jpg 4032w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-35ce3.jpg&quot;
+        srcset=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-b3814.jpg 163w,
+/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-be6ed.jpg 325w,
+/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-35ce3.jpg 650w,
+/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-57f68.jpg 975w,
+/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-a07f6.jpg 1300w,
+/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c3232.jpg 1950w,
+/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c5a98.jpg 4032w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Sometimes the silence between us tell me about them than our conversations. Which is interseting&lt;/p&gt;
-&lt;p&gt;I am not particularly a very extorverted person, most of the time I will prefer awkward silence and try to communicate to people that are far to avoid small talk. Due to this,&lt;/p&gt;
-&lt;p&gt;Would I recommend this trip? Yes and no.&lt;/p&gt;
-&lt;p&gt;Yes, if you want some &lt;em&gt;me&lt;/em&gt; time to allow to get some work done and also like to travel and meet people.&lt;/p&gt;
+&lt;h2&gt;Would I recommend this trip?&lt;/h2&gt;
+&lt;p&gt;Yes and no.&lt;/p&gt;
+&lt;p&gt;Yes, if you want some &lt;em&gt;me&lt;/em&gt; time to allow to get some work done, to see beautiful sceneries and meet people.&lt;/p&gt;
 &lt;p&gt;No, you might be able to reproduce the experiences by going to a local coffee shop and strike up conversations with strangers.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bagaimana kritik sosial dipersembahkan di dalam cerita pendek “Catatan Harian Orang Gila” oleh Lu Xun dan “Kappa” oleh Akutagawa Ryunosuke?]]></title><description><![CDATA[Tulisan ini merupakan karya untuk tugas IB World Literature Indonesian A1 tahun 2012 Di dalam setiap masyarakat, pastilah terdapat kelemahan…]]></description><link>http://stefanus.me/perbandingan-akutagawa-lu-xun/</link><guid isPermaLink="false">http://stefanus.me/perbandingan-akutagawa-lu-xun/</guid><pubDate>Sat, 17 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Tulisan ini merupakan karya untuk tugas IB World Literature Indonesian A1 tahun 2012&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -92,7 +166,7 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-eb9b1.jpg&quot;
+    href=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -100,7 +174,7 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 316px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 316px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -111,10 +185,9 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-eb9b1.jpg&quot;
-        srcset=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-c4eba.jpg 148w,
-/static/dairy-061b2c46868faf8e5d5e4843303684d2-a9183.jpg 295w,
-/static/dairy-061b2c46868faf8e5d5e4843303684d2-eb9b1.jpg 316w&quot;
+        src=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg&quot;
+        srcset=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-b8127.jpg 163w,
+/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg 316w&quot;
         sizes=&quot;(max-width: 316px) 100vw, 316px&quot;
       /&gt;
     &lt;/span&gt;
@@ -127,7 +200,7 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-dbb36.jpg&quot;
+    href=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -135,7 +208,7 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 312px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 312px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -146,10 +219,9 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-dbb36.jpg&quot;
-        srcset=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-744ad.jpg 148w,
-/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-a9335.jpg 295w,
-/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-dbb36.jpg 312w&quot;
+        src=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg&quot;
+        srcset=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-915ea.jpg 163w,
+/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg 312w&quot;
         sizes=&quot;(max-width: 312px) 100vw, 312px&quot;
       /&gt;
     &lt;/span&gt;
@@ -162,7 +234,7 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-a0e60.jpg&quot;
+    href=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-c3238.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -170,7 +242,7 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -181,12 +253,12 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-f8fb9.jpg&quot;
-        srcset=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-e8976.jpg 148w,
-/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-63df2.jpg 295w,
-/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-f8fb9.jpg 590w,
-/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-a0e60.jpg 800w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-35ce3.jpg&quot;
+        srcset=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-b3814.jpg 163w,
+/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-be6ed.jpg 325w,
+/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-35ce3.jpg 650w,
+/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-c3238.jpg 800w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -197,7 +269,7 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-49927.jpg&quot;
+    href=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-50c44.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -205,7 +277,7 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -216,12 +288,12 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-f8fb9.jpg&quot;
-        srcset=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-e8976.jpg 148w,
-/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-63df2.jpg 295w,
-/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-f8fb9.jpg 590w,
-/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-49927.jpg 700w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-35ce3.jpg&quot;
+        srcset=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-b3814.jpg 163w,
+/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-be6ed.jpg 325w,
+/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-35ce3.jpg 650w,
+/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-50c44.jpg 700w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -235,447 +307,10 @@ As mentioned in Deep Work by Cal Newport, some people like JK Rowling locked her
 &lt;li&gt;Lu Xun, Catatan Harian Orang Gila, Diterjemahkan oleh: Pipit Maizer, Penerbit Jalasutra, 2007;&lt;/li&gt;
 &lt;li&gt;Akutagawa Ryunosuke, Kumpulan Cerita Rashomon, Diterjemahkan oleh:Bambang Wibawarta, PT Gramedia, 2008;&lt;/li&gt;
 &lt;li&gt;“BEHOLD MY SWARTHY FACE BEHOLD MY SWARTHY FACE: Social Satire in Kappa: Akutagawa Ryanosukeâ Political Sensibilities”. N.p., n.d. Web. 24 June 2012. &lt;a href=&quot;http://www.beholdmyswarthyface.com/2009/07/social-satire-in-kappa-akutagawa.html&quot;&gt;http://www.beholdmyswarthyface.com/2009/07/social-satire-in-kappa-akutagawa.html&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Singapore]]></title><description><![CDATA[I lived in Singapore between 2009 and 2013 where I did my high school education. During the time, one of my friends introduced me to  Street…]]></description><link>http://stefanus.me/singapore/</link><guid isPermaLink="false">http://stefanus.me/singapore/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;I lived in Singapore between 2009 and 2013 where I did my high school education. During the time, one of my friends introduced me to &lt;a href=&quot;https://en.wikipedia.org/wiki/Street_photography&quot;&gt;Street Photography&lt;/a&gt;. I decided to pick up my first ever film camera, Konica Hexar AF which I use until today.&lt;/p&gt;
-&lt;p&gt;Here are some of images I took in Singapore using Konica Hexar AF.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqZ2pxh4P/xAAaEAACAgMAAAAAAAAAAAAAAAACAwERAAQS/9oACAEBAAEFAkvnjYYTI5HNc7w6s0RBf//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwFsf//EABcRAQADAAAAAAAAAAAAAAAAAAABERL/2gAIAQIBAT8BpmX/xAAaEAEBAAIDAAAAAAAAAAAAAAABADFBESEi/9oACAEBAAY/AuHt1AY3emwSJZv/xAAbEAEAAwEAAwAAAAAAAAAAAAABABExIUFxgf/aAAgBAQABPyG9UA07D66MZsBxH6zs5eOEsKJXqogp1P/aAAwDAQACAAMAAAAQWy//xAAXEQEBAQEAAAAAAAAAAAAAAAABACFh/9oACAEDAQE/EBA27X//xAAWEQEBAQAAAAAAAAAAAAAAAAAAAWH/2gAIAQIBAT8Qrg//xAAdEAEAAgICAwAAAAAAAAAAAAABESEAQTFRcYGR/9oACAEBAAE/EBiZbieBcT6WyhO1+D7k8B3jR3WPfIgQEc5ceyRa2usuLrJJT3n/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-f8fb9.jpg&quot;
-        srcset=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-e8976.jpg 148w,
-/static/01-669c1de3647eb5bd5f9439df666016be-63df2.jpg 295w,
-/static/01-669c1de3647eb5bd5f9439df666016be-f8fb9.jpg 590w,
-/static/01-669c1de3647eb5bd5f9439df666016be-85e3d.jpg 885w,
-/static/01-669c1de3647eb5bd5f9439df666016be-d1924.jpg 1180w,
-/static/01-669c1de3647eb5bd5f9439df666016be-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAEVzO6UOVj/xAAbEAACAwADAAAAAAAAAAAAAAAAAQIDEgQUIf/aAAgBAQABBQJL16lV1rTj1RRKWTZ//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABAjEQEaH/2gAIAQEABj8CNKLkV0TtvP8A/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBgf/aAAgBAQABPyFaYiMj0qbi/PohLlC7eR8Iq5//2gAMAwEAAgADAAAAEPjf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxAP/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQIBAT8QR//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExcUGRsf/aAAgBAQABPxBr2dKDzsDZcGCCucXnm41dfSZjAR8BGMD1kZan3P/Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-f8fb9.jpg&quot;
-        srcset=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-e8976.jpg 148w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-63df2.jpg 295w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-f8fb9.jpg 590w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-85e3d.jpg 885w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-d1924.jpg 1180w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqeesDgmD/AP/EABkQAQEAAwEAAAAAAAAAAAAAAAEDAhASEf/aAAgBAQABBQKdZ+ZV7yrz2VQFNf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYr/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAeEAABAwQDAAAAAAAAAAAAAAABABARAhIhQSJRcf/aAAgBAQAGPwLlQJ8Vo0e2wEY23//EABsQAAMAAwEBAAAAAAAAAAAAAAABESExQVFx/9oACAEBAAE/IZDhMJmY1eBr8+jRBNbuaZQnRs//2gAMAwEAAgADAAAAEM8//8QAFhEBAQEAAAAAAAAAAAAAAAAAABFR/9oACAEDAQE/EIVr/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EKyI/8QAHBABAAIDAAMAAAAAAAAAAAAAAREhADFRQXGh/9oACAEBAAE/EGDtIIUFa838xqUAMkPQ9GoyWm9oFZdyuQPCSBZXKwwQBHUe8mi29Wc//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-f8fb9.jpg&quot;
-        srcset=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-e8976.jpg 148w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-63df2.jpg 295w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-f8fb9.jpg 590w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-85e3d.jpg 885w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-d1924.jpg 1180w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAcvlDz05P//EAB0QAAIBBAMAAAAAAAAAAAAAAAIDAQAEERIiIzH/2gAIAQEAAQUCtx5pxCS9V2wwBSjav//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAQACAwAAAAAAAAAAAAAAAAEQEQAhcv/aAAgBAQAGPwJ5nYViBcf/xAAZEAEAAwEBAAAAAAAAAAAAAAABABExIVH/2gAIAQEAAT8h1XZ5t112AvKMDRlXE2B9ejCxk//aAAwDAQACAAMAAAAQIw//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCH/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EJWP/8QAGxABAAMBAAMAAAAAAAAAAAAAAQARIUExUYH/2gAIAQEAAT8QG8kxt7RCCmwBhfM1hDRJDqfrGQfmFixEPcUOK62z/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-f8fb9.jpg&quot;
-        srcset=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-e8976.jpg 148w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-63df2.jpg 295w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-f8fb9.jpg 590w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-85e3d.jpg 885w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-d1924.jpg 1180w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB69zYskUf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAAxIR/9oACAEBAAEFAs8QQ1dIfaKMx7WDf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAZEAACAwEAAAAAAAAAAAAAAAAAEAERMVH/2gAIAQEABj8CgpcNX//EABoQAAMBAAMAAAAAAAAAAAAAAAABETEhQWH/2gAIAQEAAT8hzjnOzLGDEeh+WcykYof/2gAMAwEAAgADAAAAEBgf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Qqv/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIP/xAAbEAEBAAMAAwAAAAAAAAAAAAABEQAhQTFxgf/aAAgBAQABPxAjcIQ7rxhGlhQxVIPlwvnSm8gO0CVQ9uOkhB2Z/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-f8fb9.jpg&quot;
-        srcset=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-e8976.jpg 148w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-63df2.jpg 295w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-f8fb9.jpg 590w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-85e3d.jpg 885w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-d1924.jpg 1180w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEH02SuWX//xAAaEAADAQADAAAAAAAAAAAAAAABAgMSESEi/9oACAEBAAEFAsKxkoEaHLjjHU2dvX//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BW6//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAHRAAAgIBBQAAAAAAAAAAAAAAAREAAiEDEBJRcf/aAAgBAQAGPwIoLyalW8zj1AhLCoxt/8QAGxABAAICAwAAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8hAJ8XYgLzCXgR01GEEbJYREGPY13uf//aAAwDAQACAAMAAAAQTN//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8Q0tCt/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxC6JTD/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFhUXGB/9oACAEBAAE/EMdOBFC6S8wDDCoUHXvzCPnca81ruVrN2by5z9gh3aLts5uKrAq2ln//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-f8fb9.jpg&quot;
-        srcset=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-e8976.jpg 148w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-63df2.jpg 295w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-f8fb9.jpg 590w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-85e3d.jpg 885w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-d1924.jpg 1180w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHnt5uNWJHL/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAIDERMBFDP/2gAIAQEAAQUCabTNlS9mDHRBJ//EABgRAAIDAAAAAAAAAAAAAAAAAAECEBEi/9oACAEDAQE/ASubj//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AYj/xAAdEAACAgEFAAAAAAAAAAAAAAAAAQISIRAxMkFS/9oACAEBAAY/Ao2yhqHHydoqth40/8QAHBABAQACAgMAAAAAAAAAAAAAAREAITFBUXGB/9oACAEBAAE/IU7OxmSi0OW56wlPlMAIJ4YS2GTrFnGf/9oADAMBAAIAAwAAABC//wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFh/9oACAEDAQE/EEo7p//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/EEx//8QAHBABAQABBQEAAAAAAAAAAAAAAREAITFBUXHR/9oACAEBAAE/ECYLsNCgQU2HBkkCshNouO83x4GEIIoDSzF1ulRyPzFYAOjP/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-f8fb9.jpg&quot;
-        srcset=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-e8976.jpg 148w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-63df2.jpg 295w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-f8fb9.jpg 590w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-85e3d.jpg 885w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-d1924.jpg 1180w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/08-a2810383d069ef46f47f738ece591afa-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAc5neBkx/8QAGRAAAwADAAAAAAAAAAAAAAAAAAERAhIh/9oACAEBAAEFAtqmMxfYmU//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAAESAx/9oACAEBAAY/AnOH/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAITFBcYH/2gAIAQEAAT8hJ4TxuWBcse92ZMkYD7v/2gAMAwEAAgADAAAAEOPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFxYf/aAAgBAQABPxA6yK5auW2hHAeQfHsMlwGYk50z/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/08-a2810383d069ef46f47f738ece591afa-f8fb9.jpg&quot;
-        srcset=&quot;/static/08-a2810383d069ef46f47f738ece591afa-e8976.jpg 148w,
-/static/08-a2810383d069ef46f47f738ece591afa-63df2.jpg 295w,
-/static/08-a2810383d069ef46f47f738ece591afa-f8fb9.jpg 590w,
-/static/08-a2810383d069ef46f47f738ece591afa-85e3d.jpg 885w,
-/static/08-a2810383d069ef46f47f738ece591afa-d1924.jpg 1180w,
-/static/08-a2810383d069ef46f47f738ece591afa-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/09-db373a84590c76417352067dc66f1336-713cc.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 62.39316239316239%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAD/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABR0A2GY2P/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEQMSIf/aAAgBAQABBQJRypUVnrZ4Mrgf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIQMjOR/9oACAEBAAY/Ap0Y0Yt0/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAIRBBUXGh/9oACAEBAAE/IanWAAhiX/vHiyMcxSY72n//2gAMAwEAAgADAAAAEGsv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Qqv/EABwQAQEBAQACAwAAAAAAAAAAAAERACExUYGx0f/aAAgBAQABPxDoL1B8YAFfGDQR6PvcKLLJn1gECo0fmLCnphb/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/09-db373a84590c76417352067dc66f1336-f8fb9.jpg&quot;
-        srcset=&quot;/static/09-db373a84590c76417352067dc66f1336-e8976.jpg 148w,
-/static/09-db373a84590c76417352067dc66f1336-63df2.jpg 295w,
-/static/09-db373a84590c76417352067dc66f1336-f8fb9.jpg 590w,
-/static/09-db373a84590c76417352067dc66f1336-85e3d.jpg 885w,
-/static/09-db373a84590c76417352067dc66f1336-d1924.jpg 1180w,
-/static/09-db373a84590c76417352067dc66f1336-713cc.jpg 1638w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/10-820616aa82d5450a556928391202b5bf-b206a.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAcjlfFzhlH//xAAaEAACAwEBAAAAAAAAAAAAAAABAgADESEi/9oACAEBAAEFAtnqMXJr67DJZxv/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwHULf/EABsQAAIBBQAAAAAAAAAAAAAAAAABEBESMTKB/9oACAEBAAY/AqXGyMiGux//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhQTFh/9oACAEBAAE/Ifse+p1DlOZ4aSuYxoDmnXwNjEf/2gAMAwEAAgADAAAAECzf/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERUf/aAAgBAwEBPxCMKf/EABcRAQEBAQAAAAAAAAAAAAAAABEBACH/2gAIAQIBAT8QC90UTf/EABsQAQEAAgMBAAAAAAAAAAAAAAERACExQVGB/9oACAEBAAE/EBgJMHxGnHFQlKhvsHvKA5IdEPI5QQlCwXZcEp3V4t2YCVa8z//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/10-820616aa82d5450a556928391202b5bf-f8fb9.jpg&quot;
-        srcset=&quot;/static/10-820616aa82d5450a556928391202b5bf-e8976.jpg 148w,
-/static/10-820616aa82d5450a556928391202b5bf-63df2.jpg 295w,
-/static/10-820616aa82d5450a556928391202b5bf-f8fb9.jpg 590w,
-/static/10-820616aa82d5450a556928391202b5bf-85e3d.jpg 885w,
-/static/10-820616aa82d5450a556928391202b5bf-d1924.jpg 1180w,
-/static/10-820616aa82d5450a556928391202b5bf-b206a.jpg 1545w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/11-38e5479687215f4bb0acd20955417a41-5ec7e.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.95652173913044%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAXGWwtIQ/8QAGRABAQEBAQEAAAAAAAAAAAAAAQIAAxES/9oACAEBAAEFAq6+9KB0zICuld9O/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAAjFBYf/aAAgBAQAGPwKoG515X//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExQWH/2gAIAQEAAT8hgGeuFJPDJwgHsa3TMsNR/9oADAMBAAIAAwAAABDzD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAAMBAAEFAAAAAAAAAAAAAAERIQAxQVGBobH/2gAIAQEAAT8QRIBhghHV5RoIPvvAqas1hAOwwiEiuHUfOKJvf//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Tirta&quot;
-        title=&quot;&quot;
-        src=&quot;/static/11-38e5479687215f4bb0acd20955417a41-f8fb9.jpg&quot;
-        srcset=&quot;/static/11-38e5479687215f4bb0acd20955417a41-e8976.jpg 148w,
-/static/11-38e5479687215f4bb0acd20955417a41-63df2.jpg 295w,
-/static/11-38e5479687215f4bb0acd20955417a41-f8fb9.jpg 590w,
-/static/11-38e5479687215f4bb0acd20955417a41-85e3d.jpg 885w,
-/static/11-38e5479687215f4bb0acd20955417a41-d1924.jpg 1180w,
-/static/11-38e5479687215f4bb0acd20955417a41-9452e.jpg 1770w,
-/static/11-38e5479687215f4bb0acd20955417a41-5ec7e.jpg 1840w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why write]]></title><description><![CDATA[Why people write? I am not sure. Study seems to suggest that it is a part of who we are. Quoting my favorite Indonesian writer, “Menulis…]]></description><link>http://stefanus.me/why-write/</link><guid isPermaLink="false">http://stefanus.me/why-write/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Why people write?&lt;/p&gt;
-&lt;p&gt;I am not sure. Study seems to suggest that it is a part of who we are.&lt;/p&gt;
-&lt;p&gt;Quoting my favorite Indonesian writer, “Menulis adalah bekerja untuk keabadian”, which means that writing is working for eternity.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“Menulis adalah bekerja untuk keabadian”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I believe that great ideas often does not come from isolation of itself, but rather from collision of different ideas. By writing, I typography&lt;/p&gt;
-&lt;p&gt;For some reason, writing also helps me to tidy up the clutter in my head.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-9e795.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 56.30769230769231%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAedLVZvByn//xAAcEAABAwUAAAAAAAAAAAAAAAABAAIDERIhMTP/2gAIAQEAAQUCEbbSwUGEdRcyv//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPwGn/8QAGRABAAIDAAAAAAAAAAAAAAAAAQAQAhJB/9oACAEBAAY/Ahew1Lxr/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAERITFhgaH/2gAIAQEAAT8hVkUqWTpm9iW2eRD5jZ//2gAMAwEAAgADAAAAEBM//8QAFhEAAwAAAAAAAAAAAAAAAAAAARBB/9oACAEDAQE/EBS//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxAf/8QAGxABAQADAQEBAAAAAAAAAAAAAREAITGhUXH/2gAIAQEAAT8Quz24lfnmUsaFl0Y4QCUa1zARQdcS4lZ62/uPzn//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Pramoedya Ananta Toer&quot;
-        title=&quot;&quot;
-        src=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-f8fb9.jpg&quot;
-        srcset=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-e8976.jpg 148w,
-/static/pram-3fa0d331e4fa55b39113d5d505ae9506-63df2.jpg 295w,
-/static/pram-3fa0d331e4fa55b39113d5d505ae9506-f8fb9.jpg 590w,
-/static/pram-3fa0d331e4fa55b39113d5d505ae9506-9e795.jpg 650w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Quotes]]></title><description><![CDATA[Here are the collections of quotes that I love the most. I hope some of these can inspire you too “Your children are not your children. They…]]></description><link>http://stefanus.me/quotes/</link><guid isPermaLink="false">http://stefanus.me/quotes/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Here are the collections of quotes that I love the most. I hope some of these can inspire you too&lt;/p&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[Hi, My name is Stefanus Hinardi Currently, I am a graduate student at University of California, Berkeley majoring in Electrical Engineering…]]></description><link>http://stefanus.me/about/</link><guid isPermaLink="false">http://stefanus.me/about/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Hi, My name is Stefanus Hinardi&lt;/p&gt;
+&lt;p&gt;Currently, I am a graduate student at University of California, Berkeley majoring in Electrical Engineering Computer Science(EECS) focusing in data science and systems.I am working with Mobile Sensing Lab under &lt;a href=&quot;http://bayen.eecs.berkeley.edu/&quot;&gt;Prof. Alexandre Bayen&lt;/a&gt; on traffic assignment problem.&lt;/p&gt;
+&lt;p&gt;My interests lie in many things. I like to play music, take photographs and thinker with computers. I do not believe in silos as I feel that the most interesting ideas come from intersections of multiple areas of knowledge. I think that we (homo sapiens) are all in a quest of understanding the world a little better than our ancestors, so why not collaborate?&lt;/p&gt;
+&lt;p&gt;I’m happy to chat about any of my technical interests and likely many of yours, music, culture etc. Feel free to get in touch. The best way to reach me is through &lt;a href=&quot;http://twitter.com/stefanushinardi&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Quotes]]></title><description><![CDATA[Here are the collections of quotes that I love the most. I hope some of these can inspire you too “Your children are not your children. They…]]></description><link>http://stefanus.me/quotes/</link><guid isPermaLink="false">http://stefanus.me/quotes/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Here are the collections of quotes that I love the most. I hope some of these can inspire you too&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;“Your children are not your children. They are the sons and daughters of Life’s longing for itself” ― Kahlil Gibran, The Prophet&lt;/p&gt;
@@ -704,7 +339,442 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;li&gt;
 &lt;p&gt;“Lihat, Tuan, keturunan tidak banyak berarti. Kesetian pada negeri dan bangsa ini, Tuan. Ini negeri dan bangsaku; bukan Eropa. Yang Belanda hanya namaku. Tak ada salahnya orang mencintai bangsa dan negeri ini tanpa mesti Pribumi, tanpa berdarah Pribumi” ― Pramoedya Ananta Toer&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[Hi, My name is Stefanus Hinardi Currently, I am a graduate student at University of California, Berkeley majoring in Electrical Engineering…]]></description><link>http://stefanus.me/about/</link><guid isPermaLink="false">http://stefanus.me/about/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Hi, My name is Stefanus Hinardi&lt;/p&gt;
-&lt;p&gt;Currently, I am a graduate student at University of California, Berkeley majoring in Electrical Engineering Computer Science(EECS) focusing in data science and systems.I am working with Mobile Sensing Lab under &lt;a href=&quot;http://bayen.eecs.berkeley.edu/&quot;&gt;Prof. Alexandre Bayen&lt;/a&gt; on traffic assignment problem.&lt;/p&gt;
-&lt;p&gt;My interests lie in many things. I like to play music, take photographs and thinker with computers. I do not believe in silos as I feel that the most interesting ideas come from intersections of multiple areas of knowledge. I think that we (homo sapiens) are all in a quest of understanding the world a little better than our ancestors, so why not collaborate?&lt;/p&gt;
-&lt;p&gt;I’m happy to chat about any of my technical interests and likely many of yours, music, culture etc. Feel free to get in touch. The best way to reach me is through &lt;a href=&quot;http://twitter.com/stefanushinardi&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Singapore]]></title><description><![CDATA[I lived in Singapore between 2009 and 2013 where I did my high school education. During the time, one of my friends introduced me to  Street…]]></description><link>http://stefanus.me/singapore/</link><guid isPermaLink="false">http://stefanus.me/singapore/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;I lived in Singapore between 2009 and 2013 where I did my high school education. During the time, one of my friends introduced me to &lt;a href=&quot;https://en.wikipedia.org/wiki/Street_photography&quot;&gt;Street Photography&lt;/a&gt;. I decided to pick up my first ever film camera, Konica Hexar AF which I use until today.&lt;/p&gt;
+&lt;p&gt;Here are some of images I took in Singapore using Konica Hexar AF.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqZ2pxh4P/xAAaEAACAgMAAAAAAAAAAAAAAAACAwERAAQS/9oACAEBAAEFAkvnjYYTI5HNc7w6s0RBf//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwFsf//EABcRAQADAAAAAAAAAAAAAAAAAAABERL/2gAIAQIBAT8BpmX/xAAaEAEBAAIDAAAAAAAAAAAAAAABADFBESEi/9oACAEBAAY/AuHt1AY3emwSJZv/xAAbEAEAAwEAAwAAAAAAAAAAAAABABExIUFxgf/aAAgBAQABPyG9UA07D66MZsBxH6zs5eOEsKJXqogp1P/aAAwDAQACAAMAAAAQWy//xAAXEQEBAQEAAAAAAAAAAAAAAAABACFh/9oACAEDAQE/EBA27X//xAAWEQEBAQAAAAAAAAAAAAAAAAAAAWH/2gAIAQIBAT8Qrg//xAAdEAEAAgICAwAAAAAAAAAAAAABESEAQTFRcYGR/9oACAEBAAE/EBiZbieBcT6WyhO1+D7k8B3jR3WPfIgQEc5ceyRa2usuLrJJT3n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-35ce3.jpg&quot;
+        srcset=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-b3814.jpg 163w,
+/static/01-669c1de3647eb5bd5f9439df666016be-be6ed.jpg 325w,
+/static/01-669c1de3647eb5bd5f9439df666016be-35ce3.jpg 650w,
+/static/01-669c1de3647eb5bd5f9439df666016be-57f68.jpg 975w,
+/static/01-669c1de3647eb5bd5f9439df666016be-a07f6.jpg 1300w,
+/static/01-669c1de3647eb5bd5f9439df666016be-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAEVzO6UOVj/xAAbEAACAwADAAAAAAAAAAAAAAAAAQIDEgQUIf/aAAgBAQABBQJL16lV1rTj1RRKWTZ//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABAjEQEaH/2gAIAQEABj8CNKLkV0TtvP8A/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBgf/aAAgBAQABPyFaYiMj0qbi/PohLlC7eR8Iq5//2gAMAwEAAgADAAAAEPjf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxAP/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQIBAT8QR//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExcUGRsf/aAAgBAQABPxBr2dKDzsDZcGCCucXnm41dfSZjAR8BGMD1kZan3P/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-35ce3.jpg&quot;
+        srcset=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-b3814.jpg 163w,
+/static/02-75637ac24401d8ce2688f967f1c87c73-be6ed.jpg 325w,
+/static/02-75637ac24401d8ce2688f967f1c87c73-35ce3.jpg 650w,
+/static/02-75637ac24401d8ce2688f967f1c87c73-57f68.jpg 975w,
+/static/02-75637ac24401d8ce2688f967f1c87c73-a07f6.jpg 1300w,
+/static/02-75637ac24401d8ce2688f967f1c87c73-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqeesDgmD/AP/EABkQAQEAAwEAAAAAAAAAAAAAAAEDAhASEf/aAAgBAQABBQKdZ+ZV7yrz2VQFNf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYr/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAeEAABAwQDAAAAAAAAAAAAAAABABARAhIhQSJRcf/aAAgBAQAGPwLlQJ8Vo0e2wEY23//EABsQAAMAAwEBAAAAAAAAAAAAAAABESExQVFx/9oACAEBAAE/IZDhMJmY1eBr8+jRBNbuaZQnRs//2gAMAwEAAgADAAAAEM8//8QAFhEBAQEAAAAAAAAAAAAAAAAAABFR/9oACAEDAQE/EIVr/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EKyI/8QAHBABAAIDAAMAAAAAAAAAAAAAAREhADFRQXGh/9oACAEBAAE/EGDtIIUFa838xqUAMkPQ9GoyWm9oFZdyuQPCSBZXKwwQBHUe8mi29Wc//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-35ce3.jpg&quot;
+        srcset=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-b3814.jpg 163w,
+/static/03-1c78ea6fb6c7d04381a07993c5123113-be6ed.jpg 325w,
+/static/03-1c78ea6fb6c7d04381a07993c5123113-35ce3.jpg 650w,
+/static/03-1c78ea6fb6c7d04381a07993c5123113-57f68.jpg 975w,
+/static/03-1c78ea6fb6c7d04381a07993c5123113-a07f6.jpg 1300w,
+/static/03-1c78ea6fb6c7d04381a07993c5123113-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAcvlDz05P//EAB0QAAIBBAMAAAAAAAAAAAAAAAIDAQAEERIiIzH/2gAIAQEAAQUCtx5pxCS9V2wwBSjav//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAQACAwAAAAAAAAAAAAAAAAEQEQAhcv/aAAgBAQAGPwJ5nYViBcf/xAAZEAEAAwEBAAAAAAAAAAAAAAABABExIVH/2gAIAQEAAT8h1XZ5t112AvKMDRlXE2B9ejCxk//aAAwDAQACAAMAAAAQIw//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCH/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EJWP/8QAGxABAAMBAAMAAAAAAAAAAAAAAQARIUExUYH/2gAIAQEAAT8QG8kxt7RCCmwBhfM1hDRJDqfrGQfmFixEPcUOK62z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-35ce3.jpg&quot;
+        srcset=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-b3814.jpg 163w,
+/static/04-f96886e5788aafc2242a30cc21a0a192-be6ed.jpg 325w,
+/static/04-f96886e5788aafc2242a30cc21a0a192-35ce3.jpg 650w,
+/static/04-f96886e5788aafc2242a30cc21a0a192-57f68.jpg 975w,
+/static/04-f96886e5788aafc2242a30cc21a0a192-a07f6.jpg 1300w,
+/static/04-f96886e5788aafc2242a30cc21a0a192-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB69zYskUf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAAxIR/9oACAEBAAEFAs8QQ1dIfaKMx7WDf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAZEAACAwEAAAAAAAAAAAAAAAAAEAERMVH/2gAIAQEABj8CgpcNX//EABoQAAMBAAMAAAAAAAAAAAAAAAABETEhQWH/2gAIAQEAAT8hzjnOzLGDEeh+WcykYof/2gAMAwEAAgADAAAAEBgf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Qqv/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIP/xAAbEAEBAAMAAwAAAAAAAAAAAAABEQAhQTFxgf/aAAgBAQABPxAjcIQ7rxhGlhQxVIPlwvnSm8gO0CVQ9uOkhB2Z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-35ce3.jpg&quot;
+        srcset=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-b3814.jpg 163w,
+/static/05-cd9b0558f39271a6ae069ec4076775bb-be6ed.jpg 325w,
+/static/05-cd9b0558f39271a6ae069ec4076775bb-35ce3.jpg 650w,
+/static/05-cd9b0558f39271a6ae069ec4076775bb-57f68.jpg 975w,
+/static/05-cd9b0558f39271a6ae069ec4076775bb-a07f6.jpg 1300w,
+/static/05-cd9b0558f39271a6ae069ec4076775bb-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEH02SuWX//xAAaEAADAQADAAAAAAAAAAAAAAABAgMSESEi/9oACAEBAAEFAsKxkoEaHLjjHU2dvX//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BW6//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAHRAAAgIBBQAAAAAAAAAAAAAAAREAAiEDEBJRcf/aAAgBAQAGPwIoLyalW8zj1AhLCoxt/8QAGxABAAICAwAAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8hAJ8XYgLzCXgR01GEEbJYREGPY13uf//aAAwDAQACAAMAAAAQTN//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8Q0tCt/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxC6JTD/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFhUXGB/9oACAEBAAE/EMdOBFC6S8wDDCoUHXvzCPnca81ruVrN2by5z9gh3aLts5uKrAq2ln//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-35ce3.jpg&quot;
+        srcset=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-b3814.jpg 163w,
+/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-be6ed.jpg 325w,
+/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-35ce3.jpg 650w,
+/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-57f68.jpg 975w,
+/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-a07f6.jpg 1300w,
+/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHnt5uNWJHL/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAIDERMBFDP/2gAIAQEAAQUCabTNlS9mDHRBJ//EABgRAAIDAAAAAAAAAAAAAAAAAAECEBEi/9oACAEDAQE/ASubj//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AYj/xAAdEAACAgEFAAAAAAAAAAAAAAAAAQISIRAxMkFS/9oACAEBAAY/Ao2yhqHHydoqth40/8QAHBABAQACAgMAAAAAAAAAAAAAAREAITFBUXGB/9oACAEBAAE/IU7OxmSi0OW56wlPlMAIJ4YS2GTrFnGf/9oADAMBAAIAAwAAABC//wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFh/9oACAEDAQE/EEo7p//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/EEx//8QAHBABAQABBQEAAAAAAAAAAAAAAREAITFBUXHR/9oACAEBAAE/ECYLsNCgQU2HBkkCshNouO83x4GEIIoDSzF1ulRyPzFYAOjP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-35ce3.jpg&quot;
+        srcset=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-b3814.jpg 163w,
+/static/07-d8b70d35fd94e2297ff310ff2559dee2-be6ed.jpg 325w,
+/static/07-d8b70d35fd94e2297ff310ff2559dee2-35ce3.jpg 650w,
+/static/07-d8b70d35fd94e2297ff310ff2559dee2-57f68.jpg 975w,
+/static/07-d8b70d35fd94e2297ff310ff2559dee2-a07f6.jpg 1300w,
+/static/07-d8b70d35fd94e2297ff310ff2559dee2-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/08-a2810383d069ef46f47f738ece591afa-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAc5neBkx/8QAGRAAAwADAAAAAAAAAAAAAAAAAAERAhIh/9oACAEBAAEFAtqmMxfYmU//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAAESAx/9oACAEBAAY/AnOH/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAITFBcYH/2gAIAQEAAT8hJ4TxuWBcse92ZMkYD7v/2gAMAwEAAgADAAAAEOPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFxYf/aAAgBAQABPxA6yK5auW2hHAeQfHsMlwGYk50z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/08-a2810383d069ef46f47f738ece591afa-35ce3.jpg&quot;
+        srcset=&quot;/static/08-a2810383d069ef46f47f738ece591afa-b3814.jpg 163w,
+/static/08-a2810383d069ef46f47f738ece591afa-be6ed.jpg 325w,
+/static/08-a2810383d069ef46f47f738ece591afa-35ce3.jpg 650w,
+/static/08-a2810383d069ef46f47f738ece591afa-57f68.jpg 975w,
+/static/08-a2810383d069ef46f47f738ece591afa-a07f6.jpg 1300w,
+/static/08-a2810383d069ef46f47f738ece591afa-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/09-db373a84590c76417352067dc66f1336-bd23f.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.39316239316239%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAD/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABR0A2GY2P/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEQMSIf/aAAgBAQABBQJRypUVnrZ4Mrgf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIQMjOR/9oACAEBAAY/Ap0Y0Yt0/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAIRBBUXGh/9oACAEBAAE/IanWAAhiX/vHiyMcxSY72n//2gAMAwEAAgADAAAAEGsv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Qqv/EABwQAQEBAQACAwAAAAAAAAAAAAERACExUYGx0f/aAAgBAQABPxDoL1B8YAFfGDQR6PvcKLLJn1gECo0fmLCnphb/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/09-db373a84590c76417352067dc66f1336-35ce3.jpg&quot;
+        srcset=&quot;/static/09-db373a84590c76417352067dc66f1336-b3814.jpg 163w,
+/static/09-db373a84590c76417352067dc66f1336-be6ed.jpg 325w,
+/static/09-db373a84590c76417352067dc66f1336-35ce3.jpg 650w,
+/static/09-db373a84590c76417352067dc66f1336-57f68.jpg 975w,
+/static/09-db373a84590c76417352067dc66f1336-a07f6.jpg 1300w,
+/static/09-db373a84590c76417352067dc66f1336-bd23f.jpg 1638w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/10-820616aa82d5450a556928391202b5bf-28c0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.27831715210355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAcjlfFzhlH//xAAaEAACAwEBAAAAAAAAAAAAAAABAgADESEi/9oACAEBAAEFAtnqMXJr67DJZxv/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwHULf/EABsQAAIBBQAAAAAAAAAAAAAAAAABEBESMTKB/9oACAEBAAY/AqXGyMiGux//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhQTFh/9oACAEBAAE/Ifse+p1DlOZ4aSuYxoDmnXwNjEf/2gAMAwEAAgADAAAAECzf/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERUf/aAAgBAwEBPxCMKf/EABcRAQEBAQAAAAAAAAAAAAAAABEBACH/2gAIAQIBAT8QC90UTf/EABsQAQEAAgMBAAAAAAAAAAAAAAERACExQVGB/9oACAEBAAE/EBgJMHxGnHFQlKhvsHvKA5IdEPI5QQlCwXZcEp3V4t2YCVa8z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/10-820616aa82d5450a556928391202b5bf-35ce3.jpg&quot;
+        srcset=&quot;/static/10-820616aa82d5450a556928391202b5bf-b3814.jpg 163w,
+/static/10-820616aa82d5450a556928391202b5bf-be6ed.jpg 325w,
+/static/10-820616aa82d5450a556928391202b5bf-35ce3.jpg 650w,
+/static/10-820616aa82d5450a556928391202b5bf-57f68.jpg 975w,
+/static/10-820616aa82d5450a556928391202b5bf-a07f6.jpg 1300w,
+/static/10-820616aa82d5450a556928391202b5bf-28c0b.jpg 1545w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/11-38e5479687215f4bb0acd20955417a41-7fad6.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.95652173913044%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAXGWwtIQ/8QAGRABAQEBAQEAAAAAAAAAAAAAAQIAAxES/9oACAEBAAEFAq6+9KB0zICuld9O/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAAjFBYf/aAAgBAQAGPwKoG515X//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExQWH/2gAIAQEAAT8hgGeuFJPDJwgHsa3TMsNR/9oADAMBAAIAAwAAABDzD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAAMBAAEFAAAAAAAAAAAAAAERIQAxQVGBobH/2gAIAQEAAT8QRIBhghHV5RoIPvvAqas1hAOwwiEiuHUfOKJvf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tirta&quot;
+        title=&quot;&quot;
+        src=&quot;/static/11-38e5479687215f4bb0acd20955417a41-35ce3.jpg&quot;
+        srcset=&quot;/static/11-38e5479687215f4bb0acd20955417a41-b3814.jpg 163w,
+/static/11-38e5479687215f4bb0acd20955417a41-be6ed.jpg 325w,
+/static/11-38e5479687215f4bb0acd20955417a41-35ce3.jpg 650w,
+/static/11-38e5479687215f4bb0acd20955417a41-57f68.jpg 975w,
+/static/11-38e5479687215f4bb0acd20955417a41-a07f6.jpg 1300w,
+/static/11-38e5479687215f4bb0acd20955417a41-7fad6.jpg 1840w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why write]]></title><description><![CDATA[Why people write? I am not sure. Study seems to suggest that it is a part of who we are. Quoting my favorite Indonesian writer, “Menulis…]]></description><link>http://stefanus.me/why-write/</link><guid isPermaLink="false">http://stefanus.me/why-write/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Why people write?&lt;/p&gt;
+&lt;p&gt;I am not sure. Study seems to suggest that it is a part of who we are.&lt;/p&gt;
+&lt;p&gt;Quoting my favorite Indonesian writer, “Menulis adalah bekerja untuk keabadian”, which means that writing is working for eternity.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Menulis adalah bekerja untuk keabadian”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I believe that great ideas often does not come from isolation of itself, but rather from collision of different ideas. By writing, I typography&lt;/p&gt;
+&lt;p&gt;For some reason, writing also helps me to tidy up the clutter in my head.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; width: auto; max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.30769230769231%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAedLVZvByn//xAAcEAABAwUAAAAAAAAAAAAAAAABAAIDERIhMTP/2gAIAQEAAQUCEbbSwUGEdRcyv//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPwGn/8QAGRABAAIDAAAAAAAAAAAAAAAAAQAQAhJB/9oACAEBAAY/Ahew1Lxr/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAERITFhgaH/2gAIAQEAAT8hVkUqWTpm9iW2eRD5jZ//2gAMAwEAAgADAAAAEBM//8QAFhEAAwAAAAAAAAAAAAAAAAAAARBB/9oACAEDAQE/EBS//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxAf/8QAGxABAQADAQEBAAAAAAAAAAAAAREAITGhUXH/2gAIAQEAAT8Quz24lfnmUsaFl0Y4QCUa1zARQdcS4lZ62/uPzn//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Pramoedya Ananta Toer&quot;
+        title=&quot;&quot;
+        src=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg&quot;
+        srcset=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-b3814.jpg 163w,
+/static/pram-3fa0d331e4fa55b39113d5d505ae9506-be6ed.jpg 325w,
+/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg 650w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item></channel></rss>
