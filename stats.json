@@ -9,8 +9,8 @@
       "component---src-pages-index-js-75575841de9e33f9b7ef.js.map"
     ],
     "path---perbandingan-akutagawa-lu-xun": [
-      "path---perbandingan-akutagawa-lu-xun-cfec11bed2081ed17987.js",
-      "path---perbandingan-akutagawa-lu-xun-cfec11bed2081ed17987.js.map"
+      "path---perbandingan-akutagawa-lu-xun-a0a21fdc1759447d51e7.js",
+      "path---perbandingan-akutagawa-lu-xun-a0a21fdc1759447d51e7.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -21,8 +21,8 @@
       "path---singapore-3065398c8d72741bf012.js.map"
     ],
     "path---why-write": [
-      "path---why-write-028cdf43a5bc34b1b596.js",
-      "path---why-write-028cdf43a5bc34b1b596.js.map"
+      "path---why-write-3b4a62676db7e72a5c01.js",
+      "path---why-write-3b4a62676db7e72a5c01.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -33,16 +33,16 @@
       "component---src-templates-blog-post-js-c1983598dbd3b17f1730.js.map"
     ],
     "path---quotes": [
-      "path---quotes-b909a2fe084a93ca7c05.js",
-      "path---quotes-b909a2fe084a93ca7c05.js.map"
+      "path---quotes-54be85423aa0801d1414.js",
+      "path---quotes-54be85423aa0801d1414.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-f27e68506a4d9f15f286.js",
       "component---src-layouts-index-js-f27e68506a4d9f15f286.js.map"
     ],
     "path---index": [
-      "path---index-a29dfe3090e23264071c.js",
-      "path---index-a29dfe3090e23264071c.js.map"
+      "path---index-9b5eca365d8b74c5d3de.js",
+      "path---index-9b5eca365d8b74c5d3de.js.map"
     ],
     "path---california-zephyr-trip": [
       "path---california-zephyr-trip-df07234a6614be6eb8ae.js",
@@ -59,14 +59,14 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-d3c65f10eb9982afdd5d.js",
+      "app-2a0c67e78711a8c38493.js",
       "build-js-styles.css",
-      "app-d3c65f10eb9982afdd5d.js.map",
+      "app-2a0c67e78711a8c38493.js.map",
       "build-js-styles.css.map"
     ],
     "path---about": [
-      "path---about-e4c6c85b93ec65061f1a.js",
-      "path---about-e4c6c85b93ec65061f1a.js.map"
+      "path---about-47207a0af7892593dbea.js",
+      "path---about-47207a0af7892593dbea.js.map"
     ]
   }
 }
