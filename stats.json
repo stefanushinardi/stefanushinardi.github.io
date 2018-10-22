@@ -1,52 +1,56 @@
 {
   "assetsByChunkName": {
     "component---src-templates-about-js": [
-      "component---src-templates-about-js-28ac3a14c3135ecc3cc2.js",
-      "component---src-templates-about-js-28ac3a14c3135ecc3cc2.js.map"
+      "component---src-templates-about-js-8c711980179bb80e2990.js",
+      "component---src-templates-about-js-8c711980179bb80e2990.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-75575841de9e33f9b7ef.js",
-      "component---src-pages-index-js-75575841de9e33f9b7ef.js.map"
+      "component---src-pages-index-js-fe7144dd15260edb71a2.js",
+      "component---src-pages-index-js-fe7144dd15260edb71a2.js.map"
     ],
     "path---perbandingan-akutagawa-lu-xun": [
-      "path---perbandingan-akutagawa-lu-xun-a0a21fdc1759447d51e7.js",
-      "path---perbandingan-akutagawa-lu-xun-a0a21fdc1759447d51e7.js.map"
+      "path---perbandingan-akutagawa-lu-xun-85730aa00265384fc8bd.js",
+      "path---perbandingan-akutagawa-lu-xun-85730aa00265384fc8bd.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---singapore": [
-      "path---singapore-3065398c8d72741bf012.js",
-      "path---singapore-3065398c8d72741bf012.js.map"
+      "path---singapore-ce6d745998cf91dcb449.js",
+      "path---singapore-ce6d745998cf91dcb449.js.map"
     ],
     "path---why-write": [
-      "path---why-write-3b4a62676db7e72a5c01.js",
-      "path---why-write-3b4a62676db7e72a5c01.js.map"
+      "path---why-write-2fb6f43e4c836bdda0ee.js",
+      "path---why-write-2fb6f43e4c836bdda0ee.js.map"
+    ],
+    "path---distributed-systems-resources": [
+      "path---distributed-systems-resources-d8cbca0f6fb336fef1a6.js",
+      "path---distributed-systems-resources-d8cbca0f6fb336fef1a6.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-c1983598dbd3b17f1730.js",
-      "component---src-templates-blog-post-js-c1983598dbd3b17f1730.js.map"
+      "component---src-templates-blog-post-js-33ca40b4138d6fce8d1f.js",
+      "component---src-templates-blog-post-js-33ca40b4138d6fce8d1f.js.map"
     ],
     "path---quotes": [
-      "path---quotes-54be85423aa0801d1414.js",
-      "path---quotes-54be85423aa0801d1414.js.map"
+      "path---quotes-c9b398f6800789958b4d.js",
+      "path---quotes-c9b398f6800789958b4d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-f27e68506a4d9f15f286.js",
-      "component---src-layouts-index-js-f27e68506a4d9f15f286.js.map"
+      "component---src-layouts-index-js-a617f09e6dcb5ce56071.js",
+      "component---src-layouts-index-js-a617f09e6dcb5ce56071.js.map"
     ],
     "path---index": [
-      "path---index-27672fa5cd3bb1253c81.js",
-      "path---index-27672fa5cd3bb1253c81.js.map"
+      "path---index-41f631e53198a6890c8a.js",
+      "path---index-41f631e53198a6890c8a.js.map"
     ],
     "path---california-zephyr-trip": [
-      "path---california-zephyr-trip-386698eb530532248d5b.js",
-      "path---california-zephyr-trip-386698eb530532248d5b.js.map"
+      "path---california-zephyr-trip-c1153a6de221980237fa.js",
+      "path---california-zephyr-trip-c1153a6de221980237fa.js.map"
     ],
     "commons": [
       "commons-32f22aaa3e14f24604fa.js",
@@ -59,14 +63,14 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-2a0c67e78711a8c38493.js",
+      "app-fe506d0494de6416901a.js",
       "build-js-styles.css",
-      "app-2a0c67e78711a8c38493.js.map",
+      "app-fe506d0494de6416901a.js.map",
       "build-js-styles.css.map"
     ],
     "path---about": [
-      "path---about-6b1e317b576a7f8459e3.js",
-      "path---about-6b1e317b576a7f8459e3.js.map"
+      "path---about-ddf8676756a1b95ece5b.js",
+      "path---about-ddf8676756a1b95ece5b.js.map"
     ]
   }
 }

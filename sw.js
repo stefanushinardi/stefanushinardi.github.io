@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-233c139198347746acda.js","02335c4cac19b65ea9d0cca22ad6d98a"],["/app-2a0c67e78711a8c38493.js","317579e4f70d2a7ebbf8a907fa36675c"],["/app-2d2ef82d62ff805c971e.js","6b3cb9d812b352d1bf9c2a2929a579f8"],["/app-7cc3f44d94e11a4e7273.js","1a618b8e99a8fd6fba98bd29dd06ea74"],["/app-8d62fe12a59dd38f85a3.js","b9c6c5ed08a027d5d749607a3c190e28"],["/app-d3c65f10eb9982afdd5d.js","a84f57194188f4819ae7fe685e171318"],["/app-fcde33b048b0d04ef8ee.js","f6fb44deda99980f7ae81055d139a066"],["/commons-32f22aaa3e14f24604fa.js","b86d214a28d5b112733cda003329d486"],["/commons-c3b9f75578a3021e3093.js","c118f0c86badf0ad0cfc9d7c5c5dc00a"],["/commons-e73459728ff64e648635.js","31e0296306e93bc0be7692d4f7db8362"],["/index.html","2e9fd50771a6b2a6add9275bab23faea"],["/offline-plugin-app-shell-fallback/index.html","0b8e14ec2fed477ba6ba165d27bd6ddb"]];
+var precacheConfig = [["/stefanushinardi.github.io/app-95fa317c9a33667b828d.js","eac577fa5f6bd1edb796ac354b694da8"],["/stefanushinardi.github.io/app-fe506d0494de6416901a.js","ab6523243a7c07fcac7752186b691280"],["/stefanushinardi.github.io/commons-32f22aaa3e14f24604fa.js","eccfc91ff0cf1859a01fcc5795e0eae7"],["/stefanushinardi.github.io/index.html","6eb7f131d79952263115cbe2b04004ee"],["/stefanushinardi.github.io/offline-plugin-app-shell-fallback/index.html","23e55c834735330ffe2b38056fedfa24"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
@@ -45,7 +45,7 @@ var ignoreUrlParametersMatching = [/^utm_/];
 
 
 
-var addDirectoryIndex = function (originalUrl, index) {
+var addDirectoryIndex = function(originalUrl, index) {
     var url = new URL(originalUrl);
     if (url.pathname.slice(-1) === '/') {
       url.pathname += index;
@@ -53,7 +53,7 @@ var addDirectoryIndex = function (originalUrl, index) {
     return url.toString();
   };
 
-var cleanResponse = function (originalResponse) {
+var cleanResponse = function(originalResponse) {
     // If this is not a redirected response, then we don't have to do anything.
     if (!originalResponse.redirected) {
       return Promise.resolve(originalResponse);
@@ -75,7 +75,7 @@ var cleanResponse = function (originalResponse) {
     });
   };
 
-var createCacheKey = function (originalUrl, paramName, paramValue,
+var createCacheKey = function(originalUrl, paramName, paramValue,
                            dontCacheBustUrlsMatching) {
     // Create a new URL object to avoid modifying originalUrl.
     var url = new URL(originalUrl);
@@ -91,7 +91,7 @@ var createCacheKey = function (originalUrl, paramName, paramValue,
     return url.toString();
   };
 
-var isPathWhitelisted = function (whitelist, absoluteUrlString) {
+var isPathWhitelisted = function(whitelist, absoluteUrlString) {
     // If the whitelist is empty, then consider all URLs to be whitelisted.
     if (whitelist.length === 0) {
       return true;
@@ -104,7 +104,7 @@ var isPathWhitelisted = function (whitelist, absoluteUrlString) {
     });
   };
 
-var stripIgnoredUrlParameters = function (originalUrl,
+var stripIgnoredUrlParameters = function(originalUrl,
     ignoreUrlParametersMatching) {
     var url = new URL(originalUrl);
     // Remove the hash; see https://github.com/GoogleChrome/sw-precache/issues/290

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Stefanus Hinardi]]></title><description><![CDATA[Stefanus Hinardi]]></description><link>http://stefanus.me</link><generator>RSS for Node</generator><lastBuildDate>Tue, 03 Jul 2018 09:43:54 GMT</lastBuildDate><item><title><![CDATA[California Zephyr Trip]]></title><description><![CDATA[In the spring of 2018, I took a train from Emeryville, California to Chicago, Illinois. The total trip time is about 52 hours (When I rode…]]></description><link>http://stefanus.me/california-zephyr-trip/</link><guid isPermaLink="false">http://stefanus.me/california-zephyr-trip/</guid><pubDate>Fri, 25 May 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2018, I took a train from Emeryville, California to Chicago, Illinois. The total trip time is about 52 hours (When I rode it, it was 58 hours due to some unforseen events).&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Stefanus Hinardi]]></title><description><![CDATA[Stefanus Hinardi]]></description><link>http://stefanus.me</link><generator>RSS for Node</generator><lastBuildDate>Mon, 22 Oct 2018 07:52:46 GMT</lastBuildDate><item><title><![CDATA[California Zephyr Trip]]></title><description><![CDATA[In the spring of 2018, I took a train from Emeryville, California to Chicago, Illinois. The total trip time is about 52 hours (When I rode…]]></description><link>http://stefanus.me/california-zephyr-trip/</link><guid isPermaLink="false">http://stefanus.me/california-zephyr-trip/</guid><pubDate>Fri, 25 May 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;In the spring of 2018, I took a train from Emeryville, California to Chicago, Illinois. The total trip time is about 52 hours (When I rode it, it was 58 hours due to some unforseen events).&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-86644.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-86644.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -21,12 +21,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The famous Amtrak Steak&quot;
         title=&quot;&quot;
-        src=&quot;/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-35ce3.jpg&quot;
-        srcset=&quot;/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-b3814.jpg 163w,
-/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-be6ed.jpg 325w,
-/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-35ce3.jpg 650w,
-/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-57f68.jpg 975w,
-/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-86644.jpg 1200w&quot;
+        src=&quot;/stefanushinardi.github.io/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-b3814.jpg 163w,
+/stefanushinardi.github.io/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-57f68.jpg 975w,
+/stefanushinardi.github.io/static/routes-0d2daaced2e0de8262b3fd8ca89452ca-86644.jpg 1200w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -41,7 +41,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c5a98.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c5a98.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -60,14 +60,14 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The famous Amtrak Steak&quot;
         title=&quot;&quot;
-        src=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-35ce3.jpg&quot;
-        srcset=&quot;/static/scenary_1-5bacec91de003d482083a9423ff39ce2-b3814.jpg 163w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-be6ed.jpg 325w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-35ce3.jpg 650w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-57f68.jpg 975w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-a07f6.jpg 1300w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c3232.jpg 1950w,
-/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c5a98.jpg 4032w&quot;
+        src=&quot;/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-b3814.jpg 163w,
+/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-57f68.jpg 975w,
+/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c3232.jpg 1950w,
+/stefanushinardi.github.io/static/scenary_1-5bacec91de003d482083a9423ff39ce2-c5a98.jpg 4032w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -80,7 +80,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c5a98.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c5a98.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -99,14 +99,14 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The famous Amtrak Steak&quot;
         title=&quot;&quot;
-        src=&quot;/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-35ce3.jpg&quot;
-        srcset=&quot;/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-b3814.jpg 163w,
-/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-be6ed.jpg 325w,
-/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-35ce3.jpg 650w,
-/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-57f68.jpg 975w,
-/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-a07f6.jpg 1300w,
-/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c3232.jpg 1950w,
-/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c5a98.jpg 4032w&quot;
+        src=&quot;/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-b3814.jpg 163w,
+/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-57f68.jpg 975w,
+/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c3232.jpg 1950w,
+/stefanushinardi.github.io/static/sight_seeing_1-93793f87171ca96e0bf7f4bbbc523699-c5a98.jpg 4032w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -121,7 +121,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c5a98.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c5a98.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -140,14 +140,14 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The famous Amtrak Steak&quot;
         title=&quot;&quot;
-        src=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-35ce3.jpg&quot;
-        srcset=&quot;/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-b3814.jpg 163w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-be6ed.jpg 325w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-35ce3.jpg 650w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-57f68.jpg 975w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-a07f6.jpg 1300w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c3232.jpg 1950w,
-/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c5a98.jpg 4032w&quot;
+        src=&quot;/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-b3814.jpg 163w,
+/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-57f68.jpg 975w,
+/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c3232.jpg 1950w,
+/stefanushinardi.github.io/static/steak-a646ab08c3cf0c3e007b5ecfedeac726-c5a98.jpg 4032w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -158,7 +158,26 @@
 &lt;h2&gt;Would I recommend this trip?&lt;/h2&gt;
 &lt;p&gt;Yes and no.&lt;/p&gt;
 &lt;p&gt;Yes, if you want some &lt;em&gt;me&lt;/em&gt; time, that would allow you to do some work, enjoy beautiful sceneries and meet new people.&lt;/p&gt;
-&lt;p&gt;No, you might be able to reproduce the experiences by going to a local coffee shop and strike up conversations with strangers.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bagaimana kritik sosial dipersembahkan di dalam cerita pendek “Catatan Harian Orang Gila” oleh Lu Xun dan “Kappa” oleh Akutagawa Ryunosuke?]]></title><description><![CDATA[Tulisan ini merupakan karya untuk tugas IB World Literature Indonesian A1 tahun 2012 Di dalam setiap masyarakat, pastilah terdapat kelemahan…]]></description><link>http://stefanus.me/perbandingan-akutagawa-lu-xun/</link><guid isPermaLink="false">http://stefanus.me/perbandingan-akutagawa-lu-xun/</guid><pubDate>Sat, 17 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;No, you might be able to reproduce the experiences by going to a local coffee shop and strike up conversations with strangers.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Distributed Systems Learning Resources]]></title><description><![CDATA[Here is my list of distributed systems learning resources. The list isn’t exhaustive, as I just put them as I encounter them. Books…]]></description><link>http://stefanus.me/distributed-systems-resources/</link><guid isPermaLink="false">http://stefanus.me/distributed-systems-resources/</guid><pubDate>Fri, 25 May 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Here is my list of distributed systems learning resources. The list isn’t exhaustive, as I just put them as I encounter them.&lt;/p&gt;
+&lt;h2&gt;Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/&quot;&gt;Designing Distributed Systems&lt;/a&gt;. The ebook version is freely available &lt;a href=&quot;https://azure.microsoft.com/en-us/resources/designing-distributed-systems/&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/405614.Distributed_Systems&quot;&gt;Distributed Systems Principles and Paradigms&lt;/a&gt;. The ebook version is available &lt;a href=&quot;http://indy.cs.illinois.edu/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Courses&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://courses.engr.illinois.edu/cs425/fa2017/lectures.html&quot;&gt;UIUC’s CS 425: Distributed Systems&lt;/a&gt;. I personally took this course with &lt;a href=&quot;http://indy.cs.illinois.edu/&quot;&gt;Indy&lt;/a&gt; and really loved it. It gives a very broad overview of what distributed systems is all about(CAP, consistency, replication, leader election, etc.), while still dives into details different implementation(Cassandra, MapReduce,etc). &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/specializations/cloud-computing&quot;&gt;Coursera’s Cloud Computing Specialization&lt;/a&gt;. I didn’t personally take this, but I can vouch for the instructors.&lt;/p&gt;
+&lt;h2&gt;Blogs to watch&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.acolyer.org/&quot;&gt;The Morning Paper&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Other General Paper Reading Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html&quot;&gt;How to Read a Paper&lt;/a&gt;. I like how practical this guide is, it has helped me to get more out of technical papers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.arxiv-sanity.com/&quot;&gt;Arxiv Sanity&lt;/a&gt;. Andrej Karpathy did it again.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Bagaimana kritik sosial dipersembahkan di dalam cerita pendek “Catatan Harian Orang Gila” oleh Lu Xun dan “Kappa” oleh Akutagawa Ryunosuke?]]></title><description><![CDATA[Tulisan ini merupakan karya untuk tugas IB World Literature Indonesian A1 tahun 2012 Di dalam setiap masyarakat, pastilah terdapat kelemahan…]]></description><link>http://stefanus.me/perbandingan-akutagawa-lu-xun/</link><guid isPermaLink="false">http://stefanus.me/perbandingan-akutagawa-lu-xun/</guid><pubDate>Sat, 17 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Tulisan ini merupakan karya untuk tugas IB World Literature Indonesian A1 tahun 2012&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Di dalam setiap masyarakat, pastilah terdapat kelemahan pada struktur sosial masyrakat sendiri. Ada sebagian masyarakat yang peduli akan masalah tersebut, ada pula yang acuh tak acuh. Bagi mereka yang peduli, kritik sosial merupakan salah satu cara menyadarkan masyarakat luas mengenai kelemahan–kelemahan tersebut. Bagi para sastrawan, karya-karya sastra dapat digunakan sebagai wacana dalam menyampaikan dan menyebarluaskan kritik sosial mereka. Di dalam cerita pendek “Catatan Harian Orang Gila” karya Lu Xun dan “Kappa” karya Akutagawa, pembaca mampu memahami bahwa kedua penulis menggunakan karya mereka untuk mengutarakan kritik sosial. Secara garis besar, esai ini akan membahas cara kedua pengarang mempersembahkan kritik sosial di dalam cerpen-cerpen yang mereka tulis.&lt;/p&gt;
@@ -166,7 +185,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -185,9 +204,9 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg&quot;
-        srcset=&quot;/static/dairy-061b2c46868faf8e5d5e4843303684d2-b8127.jpg 163w,
-/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg 316w&quot;
+        src=&quot;/stefanushinardi.github.io/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/dairy-061b2c46868faf8e5d5e4843303684d2-b8127.jpg 163w,
+/stefanushinardi.github.io/static/dairy-061b2c46868faf8e5d5e4843303684d2-d4f6b.jpg 316w&quot;
         sizes=&quot;(max-width: 316px) 100vw, 316px&quot;
       /&gt;
     &lt;/span&gt;
@@ -200,7 +219,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -219,9 +238,9 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg&quot;
-        srcset=&quot;/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-915ea.jpg 163w,
-/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg 312w&quot;
+        src=&quot;/stefanushinardi.github.io/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-915ea.jpg 163w,
+/stefanushinardi.github.io/static/kappa-f225ebf2cd3a9f807ba5cc82654c8376-7c339.jpg 312w&quot;
         sizes=&quot;(max-width: 312px) 100vw, 312px&quot;
       /&gt;
     &lt;/span&gt;
@@ -234,7 +253,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-c3238.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-c3238.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -253,11 +272,11 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-35ce3.jpg&quot;
-        srcset=&quot;/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-b3814.jpg 163w,
-/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-be6ed.jpg 325w,
-/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-35ce3.jpg 650w,
-/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-c3238.jpg 800w&quot;
+        src=&quot;/stefanushinardi.github.io/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-b3814.jpg 163w,
+/stefanushinardi.github.io/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/lu-xun-92208ae568dd2ea6f9c386ac834a8916-c3238.jpg 800w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -269,7 +288,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-50c44.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-50c44.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -288,11 +307,11 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-35ce3.jpg&quot;
-        srcset=&quot;/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-b3814.jpg 163w,
-/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-be6ed.jpg 325w,
-/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-35ce3.jpg 650w,
-/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-50c44.jpg 700w&quot;
+        src=&quot;/stefanushinardi.github.io/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-b3814.jpg 163w,
+/stefanushinardi.github.io/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/kappa-wiki-b116234a9284ef4f7e7d46b2e640b04f-50c44.jpg 700w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -307,7 +326,11 @@
 &lt;li&gt;Lu Xun, Catatan Harian Orang Gila, Diterjemahkan oleh: Pipit Maizer, Penerbit Jalasutra, 2007;&lt;/li&gt;
 &lt;li&gt;Akutagawa Ryunosuke, Kumpulan Cerita Rashomon, Diterjemahkan oleh:Bambang Wibawarta, PT Gramedia, 2008;&lt;/li&gt;
 &lt;li&gt;“BEHOLD MY SWARTHY FACE BEHOLD MY SWARTHY FACE: Social Satire in Kappa: Akutagawa Ryanosukeâ Political Sensibilities”. N.p., n.d. Web. 24 June 2012. &lt;a href=&quot;http://www.beholdmyswarthyface.com/2009/07/social-satire-in-kappa-akutagawa.html&quot;&gt;http://www.beholdmyswarthyface.com/2009/07/social-satire-in-kappa-akutagawa.html&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Quotes]]></title><description><![CDATA[Here are the collections of quotes that I love the most. I hope some of these can inspire you too “Your children are not your children. They…]]></description><link>http://stefanus.me/quotes/</link><guid isPermaLink="false">http://stefanus.me/quotes/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Here are the collections of quotes that I love the most. I hope some of these can inspire you too&lt;/p&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[Hi, My name is Stefanus Hinardi I am a software development engineer at Amazon Lex team.  I graduated with a Master of Engineering from…]]></description><link>http://stefanus.me/about/</link><guid isPermaLink="false">http://stefanus.me/about/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Hi, My name is Stefanus Hinardi&lt;/p&gt;
+&lt;p&gt;I am a software development engineer at Amazon Lex team. &lt;/p&gt;
+&lt;p&gt;I graduated with a Master of Engineering from University of California, Berkeley majoring in Electrical Engineering Computer Science(EECS) focusing in data science and systems. I was working with Mobile Sensing Lab under &lt;a href=&quot;http://bayen.eecs.berkeley.edu/&quot;&gt;Prof. Alexandre Bayen&lt;/a&gt; on traffic assignment problem. Previously, I did my undergraduate study at University of Illinois, Urbana Champaign in Computer Science. &lt;/p&gt;
+&lt;p&gt;My interests lie in many things. I like to play music, take photographs and thinker with computers. I do not believe in silos as I feel that the most interesting ideas come from intersections of multiple areas of knowledge. I think that we (homo sapiens) are all in a quest of understanding the world a little better than our ancestors, so why not collaborate?&lt;/p&gt;
+&lt;p&gt;I’m happy to chat about any of my technical interests and likely many of yours, music, culture etc. Feel free to get in touch. The best way to reach me is through &lt;a href=&quot;http://twitter.com/stefanushinardi&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Quotes]]></title><description><![CDATA[Here are the collections of quotes that I love the most. I hope some of these can inspire you too “Your children are not your children. They…]]></description><link>http://stefanus.me/quotes/</link><guid isPermaLink="false">http://stefanus.me/quotes/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Here are the collections of quotes that I love the most. I hope some of these can inspire you too&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;“Your children are not your children. They are the sons and daughters of Life’s longing for itself” ― Kahlil Gibran, The Prophet&lt;/p&gt;
@@ -341,7 +364,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/01-669c1de3647eb5bd5f9439df666016be-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -360,13 +383,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-35ce3.jpg&quot;
-        srcset=&quot;/static/01-669c1de3647eb5bd5f9439df666016be-b3814.jpg 163w,
-/static/01-669c1de3647eb5bd5f9439df666016be-be6ed.jpg 325w,
-/static/01-669c1de3647eb5bd5f9439df666016be-35ce3.jpg 650w,
-/static/01-669c1de3647eb5bd5f9439df666016be-57f68.jpg 975w,
-/static/01-669c1de3647eb5bd5f9439df666016be-a07f6.jpg 1300w,
-/static/01-669c1de3647eb5bd5f9439df666016be-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/01-669c1de3647eb5bd5f9439df666016be-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/01-669c1de3647eb5bd5f9439df666016be-b3814.jpg 163w,
+/stefanushinardi.github.io/static/01-669c1de3647eb5bd5f9439df666016be-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/01-669c1de3647eb5bd5f9439df666016be-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/01-669c1de3647eb5bd5f9439df666016be-57f68.jpg 975w,
+/stefanushinardi.github.io/static/01-669c1de3647eb5bd5f9439df666016be-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/01-669c1de3647eb5bd5f9439df666016be-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -377,7 +400,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/02-75637ac24401d8ce2688f967f1c87c73-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -396,13 +419,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-35ce3.jpg&quot;
-        srcset=&quot;/static/02-75637ac24401d8ce2688f967f1c87c73-b3814.jpg 163w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-be6ed.jpg 325w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-35ce3.jpg 650w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-57f68.jpg 975w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-a07f6.jpg 1300w,
-/static/02-75637ac24401d8ce2688f967f1c87c73-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/02-75637ac24401d8ce2688f967f1c87c73-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/02-75637ac24401d8ce2688f967f1c87c73-b3814.jpg 163w,
+/stefanushinardi.github.io/static/02-75637ac24401d8ce2688f967f1c87c73-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/02-75637ac24401d8ce2688f967f1c87c73-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/02-75637ac24401d8ce2688f967f1c87c73-57f68.jpg 975w,
+/stefanushinardi.github.io/static/02-75637ac24401d8ce2688f967f1c87c73-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/02-75637ac24401d8ce2688f967f1c87c73-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -413,7 +436,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/03-1c78ea6fb6c7d04381a07993c5123113-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -432,13 +455,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-35ce3.jpg&quot;
-        srcset=&quot;/static/03-1c78ea6fb6c7d04381a07993c5123113-b3814.jpg 163w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-be6ed.jpg 325w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-35ce3.jpg 650w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-57f68.jpg 975w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-a07f6.jpg 1300w,
-/static/03-1c78ea6fb6c7d04381a07993c5123113-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/03-1c78ea6fb6c7d04381a07993c5123113-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/03-1c78ea6fb6c7d04381a07993c5123113-b3814.jpg 163w,
+/stefanushinardi.github.io/static/03-1c78ea6fb6c7d04381a07993c5123113-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/03-1c78ea6fb6c7d04381a07993c5123113-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/03-1c78ea6fb6c7d04381a07993c5123113-57f68.jpg 975w,
+/stefanushinardi.github.io/static/03-1c78ea6fb6c7d04381a07993c5123113-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/03-1c78ea6fb6c7d04381a07993c5123113-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -449,7 +472,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/04-f96886e5788aafc2242a30cc21a0a192-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -468,13 +491,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-35ce3.jpg&quot;
-        srcset=&quot;/static/04-f96886e5788aafc2242a30cc21a0a192-b3814.jpg 163w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-be6ed.jpg 325w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-35ce3.jpg 650w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-57f68.jpg 975w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-a07f6.jpg 1300w,
-/static/04-f96886e5788aafc2242a30cc21a0a192-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/04-f96886e5788aafc2242a30cc21a0a192-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/04-f96886e5788aafc2242a30cc21a0a192-b3814.jpg 163w,
+/stefanushinardi.github.io/static/04-f96886e5788aafc2242a30cc21a0a192-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/04-f96886e5788aafc2242a30cc21a0a192-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/04-f96886e5788aafc2242a30cc21a0a192-57f68.jpg 975w,
+/stefanushinardi.github.io/static/04-f96886e5788aafc2242a30cc21a0a192-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/04-f96886e5788aafc2242a30cc21a0a192-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -485,7 +508,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/05-cd9b0558f39271a6ae069ec4076775bb-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -504,13 +527,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-35ce3.jpg&quot;
-        srcset=&quot;/static/05-cd9b0558f39271a6ae069ec4076775bb-b3814.jpg 163w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-be6ed.jpg 325w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-35ce3.jpg 650w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-57f68.jpg 975w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-a07f6.jpg 1300w,
-/static/05-cd9b0558f39271a6ae069ec4076775bb-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/05-cd9b0558f39271a6ae069ec4076775bb-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/05-cd9b0558f39271a6ae069ec4076775bb-b3814.jpg 163w,
+/stefanushinardi.github.io/static/05-cd9b0558f39271a6ae069ec4076775bb-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/05-cd9b0558f39271a6ae069ec4076775bb-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/05-cd9b0558f39271a6ae069ec4076775bb-57f68.jpg 975w,
+/stefanushinardi.github.io/static/05-cd9b0558f39271a6ae069ec4076775bb-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/05-cd9b0558f39271a6ae069ec4076775bb-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -521,7 +544,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -540,13 +563,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-35ce3.jpg&quot;
-        srcset=&quot;/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-b3814.jpg 163w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-be6ed.jpg 325w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-35ce3.jpg 650w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-57f68.jpg 975w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-a07f6.jpg 1300w,
-/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-b3814.jpg 163w,
+/stefanushinardi.github.io/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-57f68.jpg 975w,
+/stefanushinardi.github.io/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/06-c0cd36be2b6e4dec2cc4f76ef68aa05f-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -557,7 +580,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/07-d8b70d35fd94e2297ff310ff2559dee2-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -576,13 +599,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-35ce3.jpg&quot;
-        srcset=&quot;/static/07-d8b70d35fd94e2297ff310ff2559dee2-b3814.jpg 163w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-be6ed.jpg 325w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-35ce3.jpg 650w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-57f68.jpg 975w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-a07f6.jpg 1300w,
-/static/07-d8b70d35fd94e2297ff310ff2559dee2-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/07-d8b70d35fd94e2297ff310ff2559dee2-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/07-d8b70d35fd94e2297ff310ff2559dee2-b3814.jpg 163w,
+/stefanushinardi.github.io/static/07-d8b70d35fd94e2297ff310ff2559dee2-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/07-d8b70d35fd94e2297ff310ff2559dee2-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/07-d8b70d35fd94e2297ff310ff2559dee2-57f68.jpg 975w,
+/stefanushinardi.github.io/static/07-d8b70d35fd94e2297ff310ff2559dee2-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/07-d8b70d35fd94e2297ff310ff2559dee2-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -593,7 +616,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/08-a2810383d069ef46f47f738ece591afa-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/08-a2810383d069ef46f47f738ece591afa-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -612,13 +635,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/08-a2810383d069ef46f47f738ece591afa-35ce3.jpg&quot;
-        srcset=&quot;/static/08-a2810383d069ef46f47f738ece591afa-b3814.jpg 163w,
-/static/08-a2810383d069ef46f47f738ece591afa-be6ed.jpg 325w,
-/static/08-a2810383d069ef46f47f738ece591afa-35ce3.jpg 650w,
-/static/08-a2810383d069ef46f47f738ece591afa-57f68.jpg 975w,
-/static/08-a2810383d069ef46f47f738ece591afa-a07f6.jpg 1300w,
-/static/08-a2810383d069ef46f47f738ece591afa-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/08-a2810383d069ef46f47f738ece591afa-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/08-a2810383d069ef46f47f738ece591afa-b3814.jpg 163w,
+/stefanushinardi.github.io/static/08-a2810383d069ef46f47f738ece591afa-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/08-a2810383d069ef46f47f738ece591afa-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/08-a2810383d069ef46f47f738ece591afa-57f68.jpg 975w,
+/stefanushinardi.github.io/static/08-a2810383d069ef46f47f738ece591afa-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/08-a2810383d069ef46f47f738ece591afa-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -629,7 +652,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/09-db373a84590c76417352067dc66f1336-bd23f.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/09-db373a84590c76417352067dc66f1336-bd23f.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -648,13 +671,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/09-db373a84590c76417352067dc66f1336-35ce3.jpg&quot;
-        srcset=&quot;/static/09-db373a84590c76417352067dc66f1336-b3814.jpg 163w,
-/static/09-db373a84590c76417352067dc66f1336-be6ed.jpg 325w,
-/static/09-db373a84590c76417352067dc66f1336-35ce3.jpg 650w,
-/static/09-db373a84590c76417352067dc66f1336-57f68.jpg 975w,
-/static/09-db373a84590c76417352067dc66f1336-a07f6.jpg 1300w,
-/static/09-db373a84590c76417352067dc66f1336-bd23f.jpg 1638w&quot;
+        src=&quot;/stefanushinardi.github.io/static/09-db373a84590c76417352067dc66f1336-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/09-db373a84590c76417352067dc66f1336-b3814.jpg 163w,
+/stefanushinardi.github.io/static/09-db373a84590c76417352067dc66f1336-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/09-db373a84590c76417352067dc66f1336-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/09-db373a84590c76417352067dc66f1336-57f68.jpg 975w,
+/stefanushinardi.github.io/static/09-db373a84590c76417352067dc66f1336-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/09-db373a84590c76417352067dc66f1336-bd23f.jpg 1638w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -665,7 +688,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/10-820616aa82d5450a556928391202b5bf-28c0b.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/10-820616aa82d5450a556928391202b5bf-28c0b.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -684,13 +707,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/10-820616aa82d5450a556928391202b5bf-35ce3.jpg&quot;
-        srcset=&quot;/static/10-820616aa82d5450a556928391202b5bf-b3814.jpg 163w,
-/static/10-820616aa82d5450a556928391202b5bf-be6ed.jpg 325w,
-/static/10-820616aa82d5450a556928391202b5bf-35ce3.jpg 650w,
-/static/10-820616aa82d5450a556928391202b5bf-57f68.jpg 975w,
-/static/10-820616aa82d5450a556928391202b5bf-a07f6.jpg 1300w,
-/static/10-820616aa82d5450a556928391202b5bf-28c0b.jpg 1545w&quot;
+        src=&quot;/stefanushinardi.github.io/static/10-820616aa82d5450a556928391202b5bf-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/10-820616aa82d5450a556928391202b5bf-b3814.jpg 163w,
+/stefanushinardi.github.io/static/10-820616aa82d5450a556928391202b5bf-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/10-820616aa82d5450a556928391202b5bf-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/10-820616aa82d5450a556928391202b5bf-57f68.jpg 975w,
+/stefanushinardi.github.io/static/10-820616aa82d5450a556928391202b5bf-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/10-820616aa82d5450a556928391202b5bf-28c0b.jpg 1545w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -701,7 +724,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/11-38e5479687215f4bb0acd20955417a41-7fad6.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/11-38e5479687215f4bb0acd20955417a41-7fad6.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -720,13 +743,13 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Tirta&quot;
         title=&quot;&quot;
-        src=&quot;/static/11-38e5479687215f4bb0acd20955417a41-35ce3.jpg&quot;
-        srcset=&quot;/static/11-38e5479687215f4bb0acd20955417a41-b3814.jpg 163w,
-/static/11-38e5479687215f4bb0acd20955417a41-be6ed.jpg 325w,
-/static/11-38e5479687215f4bb0acd20955417a41-35ce3.jpg 650w,
-/static/11-38e5479687215f4bb0acd20955417a41-57f68.jpg 975w,
-/static/11-38e5479687215f4bb0acd20955417a41-a07f6.jpg 1300w,
-/static/11-38e5479687215f4bb0acd20955417a41-7fad6.jpg 1840w&quot;
+        src=&quot;/stefanushinardi.github.io/static/11-38e5479687215f4bb0acd20955417a41-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/11-38e5479687215f4bb0acd20955417a41-b3814.jpg 163w,
+/stefanushinardi.github.io/static/11-38e5479687215f4bb0acd20955417a41-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/11-38e5479687215f4bb0acd20955417a41-35ce3.jpg 650w,
+/stefanushinardi.github.io/static/11-38e5479687215f4bb0acd20955417a41-57f68.jpg 975w,
+/stefanushinardi.github.io/static/11-38e5479687215f4bb0acd20955417a41-a07f6.jpg 1300w,
+/stefanushinardi.github.io/static/11-38e5479687215f4bb0acd20955417a41-7fad6.jpg 1840w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -744,7 +767,7 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg&quot;
+    href=&quot;/stefanushinardi.github.io/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -763,10 +786,10 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Pramoedya Ananta Toer&quot;
         title=&quot;&quot;
-        src=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg&quot;
-        srcset=&quot;/static/pram-3fa0d331e4fa55b39113d5d505ae9506-b3814.jpg 163w,
-/static/pram-3fa0d331e4fa55b39113d5d505ae9506-be6ed.jpg 325w,
-/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg 650w&quot;
+        src=&quot;/stefanushinardi.github.io/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg&quot;
+        srcset=&quot;/stefanushinardi.github.io/static/pram-3fa0d331e4fa55b39113d5d505ae9506-b3814.jpg 163w,
+/stefanushinardi.github.io/static/pram-3fa0d331e4fa55b39113d5d505ae9506-be6ed.jpg 325w,
+/stefanushinardi.github.io/static/pram-3fa0d331e4fa55b39113d5d505ae9506-35ce3.jpg 650w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
       /&gt;
     &lt;/span&gt;
@@ -774,8 +797,4 @@ It is when you give of yourself that you truly give.” ― Kahlil Gibran, The P
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[Hi, My name is Stefanus Hinardi I am an incoming software development engineer at Amazon Lex team.  I graduated with a Master of Engineering…]]></description><link>http://stefanus.me/about/</link><guid isPermaLink="false">http://stefanus.me/about/</guid><pubDate>Fri, 16 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Hi, My name is Stefanus Hinardi&lt;/p&gt;
-&lt;p&gt;I am an incoming software development engineer at Amazon Lex team. &lt;/p&gt;
-&lt;p&gt;I graduated with a Master of Engineering from University of California, Berkeley majoring in Electrical Engineering Computer Science(EECS) focusing in data science and systems. I was working with Mobile Sensing Lab under &lt;a href=&quot;http://bayen.eecs.berkeley.edu/&quot;&gt;Prof. Alexandre Bayen&lt;/a&gt; on traffic assignment problem. Previously, I did my undergraduate study at University of Illinois, Urbana Champaign in Computer Science. &lt;/p&gt;
-&lt;p&gt;My interests lie in many things. I like to play music, take photographs and thinker with computers. I do not believe in silos as I feel that the most interesting ideas come from intersections of multiple areas of knowledge. I think that we (homo sapiens) are all in a quest of understanding the world a little better than our ancestors, so why not collaborate?&lt;/p&gt;
-&lt;p&gt;I’m happy to chat about any of my technical interests and likely many of yours, music, culture etc. Feel free to get in touch. The best way to reach me is through &lt;a href=&quot;http://twitter.com/stefanushinardi&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item></channel></rss>

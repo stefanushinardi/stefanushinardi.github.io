@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{502:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Stefanus Hinardi"}},allMarkdownRemark:{edges:[{node:{excerpt:"I lived in Singapore between 2009 and 2013 where I did my high school education. During the time, one of my friends introduced me to  Street…",fields:{slug:"/singapore/"},frontmatter:{date:"16 March, 2018",title:"Singapore"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-1b5443c66b2fe7b81e3c.js.map
