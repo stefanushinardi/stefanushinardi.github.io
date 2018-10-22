@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "component---src-templates-about-js": [
-      "component---src-templates-about-js-8c711980179bb80e2990.js",
-      "component---src-templates-about-js-8c711980179bb80e2990.js.map"
+      "component---src-templates-about-js-abbe5b01b27554986126.js",
+      "component---src-templates-about-js-abbe5b01b27554986126.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-fe7144dd15260edb71a2.js",
-      "component---src-pages-index-js-fe7144dd15260edb71a2.js.map"
+      "component---src-pages-index-js-cf80d47d088fdcbcc308.js",
+      "component---src-pages-index-js-cf80d47d088fdcbcc308.js.map"
     ],
     "path---perbandingan-akutagawa-lu-xun": [
       "path---perbandingan-akutagawa-lu-xun-77e3758b0be605a7e050.js",
@@ -33,8 +33,8 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-33ca40b4138d6fce8d1f.js",
-      "component---src-templates-blog-post-js-33ca40b4138d6fce8d1f.js.map"
+      "component---src-templates-blog-post-js-fa8447aa28f1cf1209d7.js",
+      "component---src-templates-blog-post-js-fa8447aa28f1cf1209d7.js.map"
     ],
     "path---quotes": [
       "path---quotes-c9b398f6800789958b4d.js",
