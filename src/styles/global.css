@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-accent: #f92300;
+  --font-serif: "Merriweather", Georgia, serif;
+  --font-sans: "Montserrat", system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: var(--font-serif);
+    color: var(--color-gray-900);
+    transition: color 0.2s, background-color 0.2s;
+  }
+  .dark body {
+    color: var(--color-gray-100);
+    background-color: var(--color-gray-950);
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-sans);
+    font-weight: 700;
+  }
+}
